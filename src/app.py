@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from src.config import get_settings
 from src.api.routes.wisdom import router as wisdom_router
+from src.api.routes.crawler import router as crawler_router
 from src.mcp_server.server import mcp
 
 settings = get_settings()
@@ -36,6 +37,7 @@ app.add_middleware(
 )
 
 app.include_router(wisdom_router, prefix=settings.api_prefix)
+app.include_router(crawler_router, prefix=settings.api_prefix)
 
 # Mount MCP server for AI agent consumption
 app.mount("/mcp", mcp.streamable_http_app())
@@ -58,10 +60,13 @@ async def root():
         "traditions": [
             "Stoicism", "Buddhism", "Advaita Vedanta", "Ubuntu", "Taoism",
             "Confucianism", "Sufism", "Jainism", "Indigenous Wisdom",
-            "Existentialism", "Positive Psychology",
+            "Existentialism", "Positive Psychology", "Islamic Ethics",
+            "Jewish Wisdom", "Sikh Philosophy", "Greek Philosophy",
+            "African Proverbial Wisdom", "Christian Mysticism",
         ],
         "endpoints": {
             "api": f"{settings.api_prefix}/wisdom/",
+            "crawler_stats": f"{settings.api_prefix}/crawler/stats",
             "mcp": "/mcp/",
             "docs": "/docs",
             "health": "/health",
