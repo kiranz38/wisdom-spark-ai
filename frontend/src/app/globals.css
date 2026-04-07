@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #12121a;
+  --bg-card: #1a1a2e;
+  --bg-card-hover: #22223a;
+  --text-primary: #e8e8f0;
+  --text-secondary: #9898b0;
+  --accent-gold: #d4a843;
+  --accent-blue: #4a9eff;
+  --accent-green: #43d4a8;
+  --accent-red: #ff6b6b;
+  --accent-purple: #a855f7;
+  --border: #2a2a3e;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Glow effects */
+.glow-gold { box-shadow: 0 0 20px rgba(212, 168, 67, 0.15); }
+.glow-blue { box-shadow: 0 0 20px rgba(74, 158, 255, 0.15); }
+.glow-green { box-shadow: 0 0 20px rgba(67, 212, 168, 0.15); }
+
+/* Radar chart custom */
+.recharts-polar-grid-concentric circle { stroke: var(--border); }
+.recharts-polar-angle-axis-tick-value { fill: var(--text-secondary) !important; font-size: 11px; }
+
+/* Score bar animation */
+@keyframes fillBar {
+  from { width: 0%; }
+  to { width: var(--score-width); }
+}
+.score-bar {
+  animation: fillBar 1s ease-out forwards;
+}
+
+/* Pulse for live indicator */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+.pulse { animation: pulse 2s ease-in-out infinite; }
