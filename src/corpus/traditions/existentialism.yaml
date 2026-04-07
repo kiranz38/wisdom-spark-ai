@@ -1,0 +1,195 @@
+tradition:
+  slug: existentialism
+  name: Existentialism & Modern Humanism
+  origin_region: Europe
+  era: 19th–20th century CE
+  description: >
+    Existentialism confronts the human condition directly: we are thrown into a world
+    without predetermined meaning, and the weight of creating meaning falls on us.
+    Rather than despair, the great existentialists found this liberating — if nothing
+    is predetermined, then everything is possible. Key themes include radical freedom,
+    personal responsibility, authenticity, the courage to face absurdity, and the
+    imperative to create meaning through action. Combined with modern humanism and
+    the work of Viktor Frankl (who survived the Holocaust and found meaning even in
+    suffering), this tradition offers a robust framework for navigating a world
+    without easy answers.
+  key_figures:
+    - Viktor Frankl
+    - Albert Camus
+    - Simone de Beauvoir
+    - Jean-Paul Sartre
+    - Soren Kierkegaard
+    - Martin Buber
+  core_principles:
+    - Existence precedes essence — you are not born with a fixed nature; you create yourself through choices
+    - Radical freedom entails radical responsibility
+    - Authenticity — the courage to be what you truly are
+    - Meaning is not found but created through engagement with life
+    - The absurd — life has no inherent meaning, which is an invitation, not a defeat
+
+entries:
+  - source_text: >
+      When we are no longer able to change a situation, we are challenged to
+      change ourselves. Everything can be taken from a man but one thing: the last
+      of the human freedoms — to choose one's attitude in any given set of
+      circumstances, to choose one's own way.
+    source_author: Viktor Frankl
+    source_work: Man's Search for Meaning
+    source_era: 1946 CE
+    original_language: German
+    core_principle: >
+      Even in the worst conceivable circumstances — a Nazi concentration camp —
+      the freedom to choose your response cannot be taken from you. This inner
+      freedom is the irreducible core of human dignity.
+    practical_application: >
+      When you face a situation you truly cannot change — illness, loss, injustice —
+      redirect your energy from changing the situation to choosing how you relate
+      to it. This is not passive acceptance but the most active form of freedom.
+      Ask: "What attitude do I choose in the face of this?"
+    modern_context: >
+      Frankl developed this insight in Auschwitz. If it holds there, it holds
+      anywhere. This is the ultimate answer to helplessness and victimhood —
+      not by denying suffering, but by affirming that suffering cannot destroy
+      the freedom to choose meaning.
+    addresses_anti_patterns:
+      - helplessness
+      - victimhood as identity
+      - despair in the face of suffering
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.4
+    considers_future: 0.7
+    honors_nature: 0.2
+    themes: [dignity, self-mastery]
+    citation: "Viktor Frankl, Man's Search for Meaning (Beacon Press, 1946/2006)"
+
+  - source_text: >
+      He who has a why to live can bear almost any how.
+    source_author: Viktor Frankl (quoting Nietzsche)
+    source_work: Man's Search for Meaning
+    source_era: 1946 CE
+    original_language: German
+    core_principle: >
+      Meaning is the most powerful force in human psychology. A person with a
+      clear purpose can endure extraordinary suffering. A person without purpose
+      crumbles under minor discomfort. Finding your "why" is not a luxury — it
+      is survival equipment.
+    practical_application: >
+      Write down your "why" — the reason you get up in the morning, the people
+      who depend on you, the work that matters to you, the future you are building.
+      Keep it visible. When hard times come — and they will — this is your anchor.
+    modern_context: >
+      Depression, anxiety, and suicide rates are rising in wealthy nations where
+      material needs are met. Frankl's insight explains why: meaning, not comfort,
+      is what humans need. Purpose deprivation is more dangerous than material
+      deprivation.
+    addresses_anti_patterns:
+      - meaninglessness
+      - nihilism
+      - depression from purposelessness
+    reduces_suffering: 0.9
+    respects_dignity: 0.8
+    promotes_cooperation: 0.4
+    considers_future: 0.8
+    honors_nature: 0.2
+    themes: [self-mastery, dignity]
+    citation: "Viktor Frankl, Man's Search for Meaning (Beacon Press, 1946/2006)"
+
+  - source_text: >
+      In the depth of winter, I finally learned that within me there lay an
+      invincible summer.
+    source_author: Albert Camus
+    source_work: Return to Tipasa
+    source_era: 1954 CE
+    original_language: French
+    core_principle: >
+      Within every person, beneath the layers of suffering, disappointment, and
+      darkness, there is an indestructible capacity for joy, meaning, and life.
+      The external winter cannot extinguish the internal summer.
+    practical_application: >
+      In your darkest moments, remember: this darkness is not all of you. Somewhere
+      within, the capacity for warmth, joy, and creation remains intact. It may
+      be buried, but it is invincible. Your task is not to create it — it's to
+      uncover it.
+    modern_context: >
+      Mental health struggles, burnout, and despair are widespread. Camus does not
+      offer a quick fix — he offers something deeper: the assurance that the light
+      in you cannot be destroyed. It can be forgotten, ignored, or buried, but
+      it cannot be killed.
+    addresses_anti_patterns:
+      - despair
+      - hopelessness
+      - believing you are fundamentally broken
+    reduces_suffering: 0.9
+    respects_dignity: 0.8
+    promotes_cooperation: 0.3
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [self-mastery, dignity, compassion]
+    citation: "Albert Camus, Return to Tipasa (1954)"
+
+  - source_text: >
+      One's life has value so long as one attributes value to the life of others,
+      by means of love, friendship, indignation and compassion.
+    source_author: Simone de Beauvoir
+    source_work: The Coming of Age
+    source_era: 1970 CE
+    original_language: French
+    core_principle: >
+      Your own life gains meaning through your investment in others' lives.
+      Love, friendship, moral outrage at injustice, and compassion for suffering
+      are not distractions from meaning — they are meaning itself. A self-centered
+      life is a meaningless life.
+    practical_application: >
+      When life feels meaningless, the answer is not to look inward but outward.
+      Find someone to love, someone to help, something to be indignant about,
+      someone to show compassion to. Meaning flows from connection, not isolation.
+    modern_context: >
+      De Beauvoir grounds meaning in social engagement — a needed correction to
+      both nihilism ("nothing matters") and narcissistic self-help ("focus on
+      yourself"). Meaning is relational. It lives between people, not inside
+      isolated individuals.
+    addresses_anti_patterns:
+      - nihilism
+      - narcissistic self-absorption
+      - apathy
+      - disconnection
+    reduces_suffering: 0.7
+    respects_dignity: 0.9
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [compassion, cooperation, dignity]
+    citation: "Simone de Beauvoir, The Coming of Age (G.P. Putnam's Sons, 1970)"
+
+  - source_text: >
+      All that is not given is lost.
+    source_author: Hasari Pal (Indian proverb, popularized in Dominique Lapierre's City of Joy)
+    source_work: Traditional / City of Joy
+    source_era: Traditional
+    original_language: Hindi/Bengali
+    core_principle: >
+      What you hoard, you lose. What you give, you keep forever. The only things
+      that truly belong to you are the things you have given away — in love,
+      in service, in generosity. Everything else is lost to time.
+    practical_application: >
+      At the end of each day, ask: "What did I give today?" Not money necessarily —
+      time, attention, kindness, effort, help. If the answer is "nothing," the day
+      was lost. If you gave something — to anyone, for any reason — the day was
+      invested in eternity.
+    modern_context: >
+      Accumulation culture — wealth, followers, possessions, achievements — promises
+      fulfillment but delivers emptiness. This teaching inverts the equation:
+      fulfillment comes from what you release, not what you accumulate.
+    addresses_anti_patterns:
+      - hoarding
+      - accumulation as purpose
+      - selfishness
+      - fear of giving
+    reduces_suffering: 0.7
+    respects_dignity: 0.7
+    promotes_cooperation: 0.9
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [compassion, cooperation, golden-rule]
+    citation: "Traditional. Popularized in Dominique Lapierre, City of Joy (1985)"

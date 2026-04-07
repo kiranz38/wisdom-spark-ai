@@ -1,0 +1,102 @@
+# Cross-tradition connections — showing how independent traditions converge
+# These are seeded after entries exist, using source_text prefixes to match
+
+cross_references:
+  # The Golden Rule across traditions
+  - source_tradition: confucianism
+    source_prefix: "Do not do to others"
+    target_tradition: ubuntu
+    target_prefix: "No one is born hating"
+    relationship_type: parallel_insight
+    explanation: >
+      Confucius's Silver Rule and Mandela's observation about learned hatred both
+      point to the same truth: harm toward others is not natural but chosen. The
+      Chinese philosopher and the South African freedom fighter, separated by 2,500
+      years and 10,000 kilometers, independently recognized that our default state
+      is connection, not division.
+    similarity_score: 0.85
+
+  # Non-duality across traditions
+  - source_tradition: vedanta
+    source_prefix: "Tat tvam asi"
+    target_tradition: sufism
+    target_prefix: "I searched for God"
+    relationship_type: parallel_insight
+    explanation: >
+      The Upanishadic "Thou art That" and Rumi's discovery that self and God are
+      the same reality express identical mystical insights from Hindu and Islamic
+      traditions. Both dissolve the boundary between individual and universal,
+      showing that the deepest spiritual discovery in both traditions converges
+      on the same non-dual truth.
+    similarity_score: 0.92
+
+  # Nature as teacher
+  - source_tradition: taoism
+    source_prefix: "Nature does not hurry"
+    target_tradition: indigenous
+    target_prefix: "The earth does not belong"
+    relationship_type: complementary
+    explanation: >
+      Laozi's teaching about nature's unhurried completeness and Chief Seattle's
+      teaching about belonging to the earth are complementary: one teaches us
+      to learn FROM nature (patience, sustainability), the other teaches us
+      that we ARE nature (interconnection, kinship). Together they form a
+      complete ecological ethic.
+    similarity_score: 0.78
+
+  # Suffering and meaning
+  - source_tradition: buddhism
+    source_prefix: "Hatred does not cease"
+    target_tradition: existentialism
+    target_prefix: "When we are no longer able"
+    relationship_type: complementary
+    explanation: >
+      The Buddha's teaching on breaking cycles of hatred through love and Frankl's
+      teaching on choosing one's attitude in the face of suffering are complementary
+      responses to the human experience of pain. Buddhism addresses interpersonal
+      suffering (cycles of retaliation); Frankl addresses existential suffering
+      (finding meaning in the unavoidable). Together they offer a complete
+      framework for navigating suffering.
+    similarity_score: 0.75
+
+  # Interconnection across traditions
+  - source_tradition: ubuntu
+    source_prefix: "Umuntu ngumuntu ngabantu"
+    target_tradition: vedanta
+    target_prefix: "As the same fire"
+    relationship_type: parallel_insight
+    explanation: >
+      Ubuntu's "I am because we are" and the Upanishadic vision of one fire
+      taking many shapes express the same truth from social and metaphysical
+      angles. Ubuntu grounds interconnection in community and relationship;
+      Vedanta grounds it in the nature of consciousness itself. Both conclude
+      that separation is illusion and connection is fundamental.
+    similarity_score: 0.88
+
+  # Non-violence convergence
+  - source_tradition: jainism
+    source_prefix: "Non-violence is the highest"
+    target_tradition: buddhism
+    target_prefix: "As a bee gathering nectar"
+    relationship_type: parallel_insight
+    explanation: >
+      Jainism's radical non-violence and Buddhism's teaching about moving through
+      the world without harm both emerged from the same Indian cultural context
+      but developed independently. Jainism makes non-violence the absolute supreme
+      principle; Buddhism frames it as the way of the wise. Both agree: it is
+      possible to live without destroying.
+    similarity_score: 0.82
+
+  # Intellectual humility
+  - source_tradition: jainism
+    source_prefix: "Anekantavada"
+    target_tradition: taoism
+    target_prefix: "Those who know do not speak"
+    relationship_type: complementary
+    explanation: >
+      Jain anekantavada (many-sidedness of truth) and Laozi's teaching that those
+      who know are humble about their knowledge both champion intellectual humility
+      from different angles. Jainism gives the epistemological argument: reality IS
+      many-sided. Taoism gives the practical argument: true knowledge brings
+      restraint, not proclamation.
+    similarity_score: 0.73

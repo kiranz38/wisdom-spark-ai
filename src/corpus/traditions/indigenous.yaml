@@ -1,0 +1,202 @@
+tradition:
+  slug: indigenous
+  name: Indigenous & First Nations Wisdom
+  origin_region: Global — Australia, Americas, Africa, Pacific Islands
+  era: Tens of thousands of years — the oldest continuous knowledge systems on Earth
+  description: >
+    Indigenous wisdom traditions represent the longest-running experiments in sustainable
+    living on Earth. Aboriginal Australians have maintained continuous culture for 65,000+
+    years. First Nations peoples across the Americas, Pacific Islands, and Africa developed
+    sophisticated systems of ecological stewardship, communal governance, and spiritual
+    connection to land. Common threads include: the land is not a resource to be extracted
+    but a relative to be honored; all life is interconnected in a web of reciprocity;
+    wisdom is carried in story, song, and ceremony; and humans are guardians, not owners,
+    of the earth.
+  key_figures:
+    - Chief Seattle (Suquamish/Duwamish)
+    - Robin Wall Kimmerer (Potawatomi)
+    - Oren Lyons (Onondaga)
+    - Uncle Bob Randall (Yankunytjatjara)
+    - Black Elk (Oglala Lakota)
+  core_principles:
+    - The land does not belong to us — we belong to the land
+    - Seven Generations thinking — consider the impact on seven generations ahead
+    - All life is related (Mitakuye Oyasin — "all my relations")
+    - Reciprocity — take only what you need, give back more than you take
+    - Wisdom lives in story, song, and direct relationship with place
+
+entries:
+  - source_text: >
+      The earth does not belong to man; man belongs to the earth. All things are
+      connected like the blood that unites one family. Whatever befalls the earth
+      befalls the sons of the earth. Man did not weave the web of life; he is merely
+      a strand in it. Whatever he does to the web, he does to himself.
+    source_author: Chief Seattle (attributed)
+    source_work: Speech to Governor Isaac Stevens (1854, reconstructed)
+    source_era: 1854 CE
+    original_language: Lushootseed (translated)
+    core_principle: >
+      Humans are not separate from or superior to nature. We are part of an
+      interconnected web. Harming the earth is self-harm. This is not metaphor —
+      it is ecological reality.
+    practical_application: >
+      Before making any decision — personal, business, political — ask: "What does
+      this do to the web?" Consider downstream effects on ecosystems, communities,
+      and future generations. If you wouldn't poison your own blood, don't poison
+      the water.
+    modern_context: >
+      Climate science has confirmed what Indigenous peoples have known for millennia:
+      everything is connected. Deforestation in the Amazon affects rainfall in Europe.
+      Ocean acidification affects the food chain that feeds billions. The web is real.
+    addresses_anti_patterns:
+      - environmental destruction
+      - human supremacism over nature
+      - short-term extractive thinking
+      - disconnection from ecological systems
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.7
+    considers_future: 1.0
+    honors_nature: 1.0
+    themes: [stewardship, cooperation, non-harm]
+    citation: "Attributed to Chief Seattle, 1854. See Rudolf Kaiser, Chief Seattle's Speech(es), 1987"
+
+  - source_text: >
+      In our every deliberation, we must consider the impact of our decisions on
+      the next seven generations.
+    source_author: The Great Law of Peace (Haudenosaunee/Iroquois Confederacy)
+    source_work: Gayanashagowa (Great Law of Peace)
+    source_era: Approximately 1142 CE (dating debated)
+    original_language: Haudenosaunee languages
+    core_principle: >
+      Every decision should be evaluated not by its immediate benefit but by its
+      impact seven generations into the future (~175 years). This is the most
+      radical long-term thinking principle in human governance.
+    practical_application: >
+      Before any significant decision — in business, policy, or personal life — ask:
+      "Will the children of my children's children's children thank me for this, or
+      curse me?" If the answer is uncertain, proceed with extreme caution. Build for
+      the long arc, not the quarterly report.
+    modern_context: >
+      Modern economics operates on quarterly timelines. Politics operates on 2-4 year
+      election cycles. The Seven Generations principle operates on 175-year timelines.
+      Climate change, nuclear waste, genetic engineering, AI development — these all
+      demand Seven Generations thinking. We are failing because we don't use it.
+    addresses_anti_patterns:
+      - short-term thinking
+      - quarterly capitalism
+      - intergenerational injustice
+      - discounting the future
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.7
+    considers_future: 1.0
+    honors_nature: 0.9
+    themes: [stewardship, cooperation]
+    citation: "Gayanashagowa (Great Law of Peace), Haudenosaunee Confederacy"
+
+  - source_text: >
+      Mitakuye Oyasin — All my relations. We are related to everything that exists:
+      the stone people, the plant people, the four-legged, the winged ones, the
+      crawling ones, the standing people (trees), and all human beings.
+    source_author: Lakota teaching
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Lakota
+    core_principle: >
+      Kinship extends beyond humans to all beings and elements. Rocks, rivers, trees,
+      animals — they are not resources but relatives. When you see the world as family,
+      exploitation becomes unthinkable.
+    practical_application: >
+      Practice speaking to the natural world as kin. When you walk outside, acknowledge
+      the trees, the birds, the sky. This isn't superstition — it's a practice of
+      attention and relationship. When you see a river as your relative, you cannot
+      pollute it. When you see an animal as kin, you cannot abuse it without conscience.
+    modern_context: >
+      The loneliness epidemic, the environmental crisis, and the mental health crisis
+      share a root cause: disconnection. Indigenous kinship thinking reconnects humans
+      to the living world. Research shows that nature connection measurably improves
+      mental health. The Indigenous worldview is also good science.
+    addresses_anti_patterns:
+      - disconnection from nature
+      - loneliness
+      - treating nature as commodity
+      - speciesism
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.8
+    considers_future: 0.8
+    honors_nature: 1.0
+    themes: [stewardship, compassion, cooperation, non-harm]
+    citation: "Lakota oral tradition. See Joseph M. Marshall III, Walking with Grandfather (2005)"
+
+  - source_text: >
+      Know the ways of the ones who take care of you, so that you may take care
+      of them. Introduce yourself. Be accountable as the one who comes asking for
+      life. Ask permission before taking. Abide by the answer. Never take the first.
+      Never take the last. Take only what you need. Take only that which is given.
+      Never take more than half. Leave some for others. Harvest in a way that
+      minimizes harm. Use it respectfully. Never waste what you have taken. Share.
+      Give thanks for what you have been given. Give a gift, in reciprocity for what
+      you have taken. Sustain the ones who sustain you and the earth will last forever.
+    source_author: Robin Wall Kimmerer
+    source_work: Braiding Sweetgrass
+    source_era: 2013 CE
+    original_language: English (drawing on Potawatomi tradition)
+    core_principle: >
+      The "Honorable Harvest" — a complete ethical framework for how to take from
+      the world in a way that sustains rather than depletes it. Every act of taking
+      comes with responsibilities of gratitude, reciprocity, and restraint.
+    practical_application: >
+      Apply these principles to how you consume — food, energy, attention, natural
+      resources. Before taking anything, ask: Do I need this? Am I being respectful?
+      Am I leaving enough for others? What can I give back? This transforms consumption
+      from extraction into relationship.
+    modern_context: >
+      Consumer capitalism says "take as much as you can afford." The Honorable Harvest
+      says "take only what you need, and give back." If global economic systems followed
+      even half of these principles, climate change, resource depletion, and inequality
+      would be transformed.
+    addresses_anti_patterns:
+      - overconsumption
+      - extractive economics
+      - waste
+      - entitlement
+      - disconnection from sources of sustenance
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.8
+    considers_future: 1.0
+    honors_nature: 1.0
+    themes: [stewardship, non-harm, cooperation, golden-rule]
+    citation: "Robin Wall Kimmerer, Braiding Sweetgrass (Milkweed Editions, 2013)"
+
+  - source_text: >
+      We do not inherit the earth from our ancestors; we borrow it from our children.
+    source_author: Native American proverb (widely attributed)
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various
+    core_principle: >
+      Ownership is an illusion. We are temporary custodians of a world that belongs
+      to those who come after us. Every action we take either preserves or degrades
+      their inheritance.
+    practical_application: >
+      In every significant decision, add an invisible stakeholder to the table:
+      the future. What would your grandchildren say about this choice? Would they
+      thank you or would they ask "what were you thinking?"
+    modern_context: >
+      This single reframe — from owners to borrowers — would revolutionize economics,
+      environmental policy, and urban planning. We don't own the planet. We're
+      borrowing it. And the lenders will hold us accountable.
+    addresses_anti_patterns:
+      - short-term thinking
+      - environmental destruction
+      - intergenerational selfishness
+    reduces_suffering: 0.6
+    respects_dignity: 0.7
+    promotes_cooperation: 0.6
+    considers_future: 1.0
+    honors_nature: 1.0
+    themes: [stewardship]
+    citation: "Widely attributed Native American proverb"

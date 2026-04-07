@@ -1,0 +1,196 @@
+tradition:
+  slug: sufism
+  name: Sufism (Islamic Mysticism)
+  origin_region: Middle East / Persia / North Africa / South Asia
+  era: 8th century CE – present
+  description: >
+    Sufism is the mystical dimension of Islam, focused on the direct experience of
+    divine love, the purification of the heart, and the dissolution of the ego-self
+    (nafs) into union with God. Sufi poets and teachers have produced some of humanity's
+    most profound literature on love, compassion, and the unity of all beings. Sufism
+    emphasizes that the outer forms of religion are doorways, not destinations — the
+    true goal is the transformation of the heart. Its teachings on love as the
+    fundamental force of the universe, on seeing the divine in every face, and on
+    dissolving barriers between "self" and "other" are universal in their reach.
+  key_figures:
+    - Rumi (Jalal ad-Din Muhammad Balkhi)
+    - Hafiz (Khwaja Shams-ud-Din Muhammad)
+    - Ibn Arabi
+    - Rabia al-Adawiyya
+    - Al-Ghazali
+  core_principles:
+    - Divine love is the fundamental force of existence
+    - The ego (nafs) is the veil between the human and the divine
+    - All apparent separations — between religions, peoples, self and other — are illusions
+    - The heart must be purified through love, devotion, and service
+    - Every face is a face of the Beloved
+
+entries:
+  - source_text: >
+      Out beyond ideas of wrongdoing and rightdoing, there is a field.
+      I'll meet you there. When the soul lies down in that grass,
+      the world is too full to talk about.
+    source_author: Rumi
+    source_work: Masnavi / Collected Poems
+    source_era: 13th century CE
+    original_language: Persian
+    core_principle: >
+      Beyond all our categories of judgment — right/wrong, good/bad, us/them —
+      there is a space of pure meeting. When we drop our judgments and categories,
+      we find a connection so full that words become unnecessary.
+    practical_application: >
+      In your next conflict or disagreement, try meeting the other person "in the
+      field" — set aside who is right and who is wrong, and simply be present with
+      them as a human being. You may find that the conflict dissolves when the
+      categories that created it are released.
+    modern_context: >
+      Political polarization, culture wars, and online tribalism all depend on
+      rigid categories of right and wrong, us and them. Rumi's field is the space
+      where dialogue becomes possible — not by agreeing, but by meeting beyond
+      the need to be right.
+    addresses_anti_patterns:
+      - rigid judgmentalism
+      - political polarization
+      - inability to see beyond categories
+      - tribalism
+    reduces_suffering: 0.9
+    respects_dignity: 0.9
+    promotes_cooperation: 0.95
+    considers_future: 0.5
+    honors_nature: 0.5
+    themes: [compassion, cooperation, dignity, non-harm]
+    citation: "Rumi, The Essential Rumi, trans. Coleman Barks (HarperOne, 2004)"
+
+  - source_text: >
+      Your task is not to seek for love, but merely to seek and find all the
+      barriers within yourself that you have built against it.
+    source_author: Rumi
+    source_work: Collected Poems
+    source_era: 13th century CE
+    original_language: Persian
+    core_principle: >
+      Love is not something to be found outside — it is the natural state that
+      emerges when inner barriers are removed. Hatred, fear, pride, and judgment
+      are walls we build. Remove the walls, and love is already there.
+    practical_application: >
+      Instead of seeking love, connection, or belonging externally, examine what
+      inside you resists them. What fears, grudges, or beliefs prevent you from
+      being open? Work on removing those barriers. The love was always there,
+      waiting behind the walls.
+    modern_context: >
+      Therapy, self-help, and dating culture all focus on "finding" love. Rumi
+      flips this: love isn't scarce — our defenses against it are abundant.
+      This insight aligns with attachment theory in modern psychology: our
+      ability to love is limited by our wounds, not by love's availability.
+    addresses_anti_patterns:
+      - fear of vulnerability
+      - emotional walls
+      - searching outside for what's within
+    reduces_suffering: 0.9
+    respects_dignity: 0.7
+    promotes_cooperation: 0.6
+    considers_future: 0.5
+    honors_nature: 0.3
+    themes: [compassion, self-mastery]
+    citation: "Rumi, The Essential Rumi, trans. Coleman Barks (HarperOne, 2004)"
+
+  - source_text: >
+      I searched for God and found only myself. I searched for myself and
+      found only God.
+    source_author: Rumi (attributed) / Sufi teaching
+    source_work: Traditional
+    source_era: 13th century CE
+    original_language: Persian
+    core_principle: >
+      The deepest self and the divine are the same reality. The search for God
+      outward leads back to the self; the search inward leads to the universal.
+      This parallels the Vedantic "Tat tvam asi" — separation between self and
+      the sacred is the fundamental illusion.
+    practical_application: >
+      Sit quietly. Ask "Who am I?" — not your name, job, or identity, but the
+      awareness that observes all of these. Follow that awareness inward. What
+      you find is not personal — it is the same presence that pervades everything.
+      This is the mystic's discovery in every tradition.
+    modern_context: >
+      In a secular age that has largely abandoned mysticism, this teaching reminds
+      us that the deepest questions — Who am I? What is consciousness? — lead to
+      the same territory that mystics of every tradition have mapped. Science studies
+      the outer world; contemplation studies the inner. Both converge.
+    addresses_anti_patterns:
+      - spiritual materialism
+      - looking outside for meaning
+      - existential emptiness
+    reduces_suffering: 0.8
+    respects_dignity: 0.7
+    promotes_cooperation: 0.4
+    considers_future: 0.4
+    honors_nature: 0.5
+    themes: [self-mastery, compassion]
+    citation: "Traditional Sufi teaching, widely attributed to Rumi"
+
+  - source_text: >
+      Be like the sun for grace and mercy. Be like the night to cover others'
+      faults. Be like running water for generosity. Be like death for rage and
+      anger. Be like the earth for modesty. Appear as you are. Be as you appear.
+    source_author: Rumi
+    source_work: Masnavi
+    source_era: 13th century CE
+    original_language: Persian
+    core_principle: >
+      A complete ethical guide through natural metaphors: be generous like water,
+      merciful like sunlight, humble like earth, and let anger die completely.
+      Above all, be authentic — appear as you are.
+    practical_application: >
+      Choose one of these qualities each week to embody:
+      Week 1: Grace — be generous with forgiveness.
+      Week 2: Covering faults — don't expose others' weaknesses.
+      Week 3: Generosity — give freely without counting.
+      Week 4: Letting anger die — when anger arises, let it pass through you completely.
+    modern_context: >
+      Social media incentivizes the opposite of every quality listed here: exposing
+      faults, performing rage, hoarding attention, and curating false appearances.
+      Rumi's prescription is the antidote to the toxicity of performative online culture.
+    addresses_anti_patterns:
+      - performative outrage
+      - exposing others' faults
+      - inauthenticity
+      - holding grudges
+    reduces_suffering: 0.8
+    respects_dignity: 0.9
+    promotes_cooperation: 0.8
+    considers_future: 0.5
+    honors_nature: 0.7
+    themes: [compassion, non-harm, dignity, self-mastery]
+    citation: "Rumi, Masnavi, trans. Jawid Mojaddedi (Oxford UP, 2004)"
+
+  - source_text: >
+      I have lived on the lip of insanity, wanting to know reasons, knocking on
+      a door. It opens. I've been knocking from the inside.
+    source_author: Rumi
+    source_work: Collected Poems
+    source_era: 13th century CE
+    original_language: Persian
+    core_principle: >
+      What we seek is not outside us, beyond a door we must find and open. We are
+      already inside the house. The search itself — the frantic knocking — is what
+      prevents us from realizing we have already arrived.
+    practical_application: >
+      When you feel you are missing something essential — peace, meaning, belonging —
+      consider that you might already have it. Stop searching for a moment. Be still.
+      What if the answer isn't somewhere else? What if you are already home?
+    modern_context: >
+      The self-improvement industry generates billions by convincing people they are
+      broken and need fixing. Rumi suggests the opposite: you are already whole.
+      The constant striving to "arrive" prevents you from recognizing you are
+      already here.
+    addresses_anti_patterns:
+      - chronic dissatisfaction
+      - endless seeking without arriving
+      - feeling fundamentally broken
+    reduces_suffering: 0.9
+    respects_dignity: 0.8
+    promotes_cooperation: 0.3
+    considers_future: 0.4
+    honors_nature: 0.3
+    themes: [self-mastery, compassion]
+    citation: "Rumi, The Essential Rumi, trans. Coleman Barks (HarperOne, 2004)"

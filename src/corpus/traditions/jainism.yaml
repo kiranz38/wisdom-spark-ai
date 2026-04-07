@@ -1,0 +1,166 @@
+tradition:
+  slug: jainism
+  name: Jainism
+  origin_region: India
+  era: 7th–5th century BCE – present
+  description: >
+    Jainism is perhaps the most radical philosophy of non-violence ever developed.
+    Its central principle, ahimsa (non-harm), extends to all living beings — from
+    humans to animals to insects to microorganisms. Jain monks sweep the ground before
+    them to avoid stepping on insects. This extreme commitment to non-harm is paired
+    with anekantavada (many-sidedness of truth) — the recognition that reality is
+    complex, no single perspective captures the whole truth, and intellectual humility
+    is therefore a moral imperative. Jainism also teaches aparigraha (non-possessiveness)
+    — detachment from material accumulation.
+  key_figures:
+    - Mahavira (24th Tirthankara)
+    - Rishabhanatha (1st Tirthankara)
+    - Acharya Hemachandra
+    - Shrimad Rajchandra
+  core_principles:
+    - Ahimsa (non-violence) — the supreme ethical principle, extending to all life
+    - Anekantavada (many-sidedness) — truth has many facets; no single view is complete
+    - Aparigraha (non-possessiveness) — detachment from material accumulation
+    - Satya (truthfulness) — speak truth, but only if it does not cause harm
+    - Every soul has the potential for infinite knowledge and liberation
+
+entries:
+  - source_text: >
+      Non-violence is the highest religion. Non-violence is the highest self-control.
+      Non-violence is the greatest gift. Non-violence is the best suffering.
+      Non-violence is the highest sacrifice. Non-violence is the finest strength.
+      Non-violence is the greatest friend. Non-violence is the greatest happiness.
+    source_author: Mahavira
+    source_work: Sutrakritanga
+    source_era: 5th century BCE
+    original_language: Ardhamagadhi Prakrit
+    core_principle: >
+      Ahimsa (non-violence) is not just one virtue among many — it is THE supreme
+      principle from which all other virtues flow. It is simultaneously the highest
+      religion, the greatest strength, and the deepest happiness.
+    practical_application: >
+      Expand your circle of non-harm progressively. Start with obvious violence, then
+      extend to harsh speech, then to harmful thoughts. Consider the impact of your
+      consumption — food, products, energy — on other beings. Non-violence is not
+      passive; it is the most active and demanding ethical practice.
+    modern_context: >
+      In a world of factory farming, environmental destruction, and military
+      escalation, Jainism's radical non-violence is more relevant than ever.
+      It asks: what if we took "do no harm" absolutely seriously? Not as an ideal
+      to approximate, but as the fundamental law of ethical life?
+    addresses_anti_patterns:
+      - violence in all forms
+      - casual cruelty
+      - harmful speech
+      - environmental destruction
+      - cruelty to animals
+    reduces_suffering: 1.0
+    respects_dignity: 0.9
+    promotes_cooperation: 0.7
+    considers_future: 0.7
+    honors_nature: 0.95
+    themes: [non-harm, compassion, dignity, stewardship]
+    citation: "Sutrakritanga, 1.11.33. Trans. in Jain Sutras, Part II, SBE Vol. 45"
+
+  - source_text: >
+      All beings are fond of life; they like pleasure and hate pain, shun
+      destruction and like to live, they long to live. To all, life is dear.
+    source_author: Mahavira
+    source_work: Acharanga Sutra
+    source_era: 5th century BCE
+    original_language: Ardhamagadhi Prakrit
+    core_principle: >
+      Every living being — not just humans — clings to life and shrinks from pain.
+      This shared desire to live and be free from suffering is the foundation of
+      universal empathy. If all beings love life as you do, harming them is a
+      violation of the deepest kinship.
+    practical_application: >
+      Before harming any being — even an insect — pause and recognize: this creature
+      wants to live as much as I do. It feels something. Its life matters to it.
+      This moment of recognition doesn't require you to never step on an ant, but
+      it does require you to care, and to avoid harm whenever possible.
+    modern_context: >
+      Modern science increasingly confirms what Jainism taught 2,500 years ago:
+      animals feel pain, fish suffer, even insects have rich behavioral lives.
+      The expanding circle of moral consideration that philosophy discusses —
+      Jainism drew that circle widest, long ago.
+    addresses_anti_patterns:
+      - cruelty to animals
+      - indifference to other species' suffering
+      - human supremacism
+    reduces_suffering: 0.95
+    respects_dignity: 0.9
+    promotes_cooperation: 0.6
+    considers_future: 0.6
+    honors_nature: 1.0
+    themes: [non-harm, compassion, stewardship]
+    citation: "Acharanga Sutra, 1.4.1. Trans. Hermann Jacobi, SBE Vol. 22"
+
+  - source_text: >
+      Anekantavada: Reality is perceived differently from different points of view,
+      and no single point of view is the complete truth. Like the parable of the
+      blind men and the elephant — each touches a different part and describes a
+      different animal, yet the elephant is all of these and none of these alone.
+    source_author: Jain philosophical tradition
+    source_work: Syadvada / Anekantavada doctrine
+    source_era: Systematized ~5th century BCE
+    original_language: Sanskrit/Prakrit
+    core_principle: >
+      No single perspective captures the whole truth. Every viewpoint is partial.
+      Intellectual humility is not weakness — it is the most accurate stance.
+      Dogmatism is not just morally harmful but epistemologically wrong.
+    practical_application: >
+      In every disagreement, before arguing your position, genuinely try to understand
+      how the other person's perspective could be partially true. Ask: "What part of
+      the elephant are they touching?" This doesn't require abandoning your view —
+      just recognizing it's partial.
+    modern_context: >
+      In an age of information silos, echo chambers, and "my side is 100% right,"
+      anekantavada is revolutionary. It's the philosophical foundation for genuine
+      dialogue — not the kind where you pretend to listen while preparing your
+      rebuttal, but the kind where you actually update your understanding.
+    addresses_anti_patterns:
+      - dogmatism
+      - echo chambers
+      - intellectual arrogance
+      - inability to consider other viewpoints
+      - ideological extremism
+    reduces_suffering: 0.7
+    respects_dignity: 0.9
+    promotes_cooperation: 0.95
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [cooperation, dignity, compassion]
+    citation: "See Bimal Krishna Matilal, The Central Philosophy of Jainism (1981)"
+
+  - source_text: >
+      One who neglects or disregards the existence of earth, air, fire, water
+      and vegetation disregards his own existence which is entwined with them.
+    source_author: Mahavira
+    source_work: Acharanga Sutra
+    source_era: 5th century BCE
+    original_language: Ardhamagadhi Prakrit
+    core_principle: >
+      Human existence is inseparable from the elements and life forms that sustain
+      it. Disregarding nature is disregarding yourself. Ecological awareness is
+      not optional — it is self-awareness.
+    practical_application: >
+      Trace your daily dependencies: the water you drink, the air you breathe,
+      the soil that grew your food, the fire (energy) that warms your home.
+      Recognize that you are not independent of these — you are made of them.
+      Care for them as you would care for your own body, because they are your body.
+    modern_context: >
+      This 2,500-year-old teaching is essentially a statement of ecological
+      interdependence that modern climate science has spent decades proving.
+      Jainism had the answer before we even understood the question.
+    addresses_anti_patterns:
+      - environmental neglect
+      - illusion of human independence from nature
+      - treating elements as disposable resources
+    reduces_suffering: 0.6
+    respects_dignity: 0.7
+    promotes_cooperation: 0.6
+    considers_future: 0.9
+    honors_nature: 1.0
+    themes: [stewardship, non-harm]
+    citation: "Acharanga Sutra. Trans. Hermann Jacobi, SBE Vol. 22"

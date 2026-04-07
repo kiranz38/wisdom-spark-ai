@@ -1,0 +1,178 @@
+tradition:
+  slug: positive-psychology
+  name: Positive Psychology & Science of Flourishing
+  origin_region: Global (primarily Western academic tradition)
+  era: 20th–21st century CE
+  description: >
+    Positive psychology is the scientific study of what makes life worth living.
+    Rather than focusing solely on pathology and dysfunction, it researches the
+    conditions that lead to human flourishing — meaning, engagement, positive
+    relationships, accomplishment, and wellbeing. Its findings consistently validate
+    what ancient wisdom traditions taught: that compassion, gratitude, purpose,
+    connection, and service are not just nice ideals but measurable predictors of
+    health, longevity, and life satisfaction. This tradition bridges ancient wisdom
+    and modern evidence.
+  key_figures:
+    - Martin Seligman
+    - Brene Brown
+    - Mihaly Csikszentmihalyi
+    - Barbara Fredrickson
+    - Dacher Keltner
+    - Jonathan Haidt
+  core_principles:
+    - Wellbeing is measurable and teachable (PERMA model)
+    - Gratitude, compassion, and kindness improve the giver's wellbeing
+    - Social connection is the single strongest predictor of happiness
+    - Purpose and meaning buffer against depression and anxiety
+    - Awe, wonder, and exposure to nature measurably improve mental health
+
+entries:
+  - source_text: >
+      The Grant Study — the longest longitudinal study of human development ever
+      conducted (Harvard, 1938–present, 85+ years) — found one conclusion above
+      all others: the quality of your relationships is the single strongest
+      predictor of health, happiness, and longevity. Not wealth, not fame, not
+      achievement. Relationships.
+    source_author: Robert Waldinger / George Vaillant
+    source_work: The Harvard Study of Adult Development (Grant Study)
+    source_era: 1938–present
+    original_language: English
+    core_principle: >
+      After 85 years of tracking human lives, science confirms what every wisdom
+      tradition taught: connection is what matters most. The quality of your
+      relationships predicts your health better than cholesterol, exercise, or
+      genetics.
+    practical_application: >
+      Invest in your relationships the way you invest in your career. Schedule
+      time for people you love. Repair conflicts rather than avoiding them.
+      Prioritize depth over breadth. One deep friendship is worth more than
+      a thousand social media connections.
+    modern_context: >
+      We live in the loneliest era in human history despite unprecedented
+      connectivity. The Grant Study proves what Ubuntu, Confucianism, and
+      Buddhism all taught: we are wired for connection, and disconnection
+      literally kills us. This is not philosophy — it is epidemiology.
+    addresses_anti_patterns:
+      - loneliness epidemic
+      - prioritizing achievement over relationships
+      - superficial connection
+      - isolation
+    reduces_suffering: 0.9
+    respects_dignity: 0.7
+    promotes_cooperation: 0.9
+    considers_future: 0.8
+    honors_nature: 0.2
+    themes: [cooperation, compassion]
+    citation: "Robert Waldinger & Marc Schulz, The Good Life (Simon & Schuster, 2023)"
+
+  - source_text: >
+      People who regularly practice gratitude by taking time to notice and reflect
+      upon the things they're thankful for experience more positive emotions, feel
+      more alive, sleep better, express more compassion and kindness, and even
+      have stronger immune systems.
+    source_author: Robert Emmons
+    source_work: Thanks! How the New Science of Gratitude Can Make You Happier
+    source_era: 2007 CE
+    original_language: English
+    core_principle: >
+      Gratitude is not just a nice feeling — it is a practice with measurable
+      physical and psychological benefits. It rewires the brain toward positivity,
+      strengthens relationships, and improves health. Every tradition taught
+      gratitude; science now proves why.
+    practical_application: >
+      Each night, write down three things you are grateful for. Be specific.
+      Not "my family" but "the way my daughter laughed at dinner tonight."
+      Do this for 30 days. Research shows this simple practice measurably
+      increases wellbeing for up to six months.
+    modern_context: >
+      Negativity bias — our brain's tendency to focus on threats — served us
+      on the savanna but sabotages us in modern life. Gratitude practice is
+      a deliberate counterweight: training the brain to notice what is good,
+      not just what is wrong. It is cognitive therapy disguised as a spiritual practice.
+    addresses_anti_patterns:
+      - negativity bias
+      - chronic dissatisfaction
+      - taking good things for granted
+      - entitlement
+    reduces_suffering: 0.8
+    respects_dignity: 0.5
+    promotes_cooperation: 0.6
+    considers_future: 0.5
+    honors_nature: 0.3
+    themes: [compassion, self-mastery]
+    citation: "Robert Emmons, Thanks! (Houghton Mifflin, 2007)"
+
+  - source_text: >
+      Vulnerability is not winning or losing; it's having the courage to show up
+      and be seen when we have no control over the outcome. Vulnerability is the
+      birthplace of love, belonging, joy, courage, empathy, and creativity.
+    source_author: Brene Brown
+    source_work: Daring Greatly
+    source_era: 2012 CE
+    original_language: English
+    core_principle: >
+      The things we most want — love, belonging, creativity — all require
+      vulnerability. The armor we build to protect ourselves from pain also
+      blocks us from joy. Courage is not the absence of vulnerability but
+      the willingness to be vulnerable anyway.
+    practical_application: >
+      Identify one area where you are armored — where you hide, perform, or
+      pretend. Take one small step toward authenticity there. Share something
+      real with someone you trust. The vulnerability will feel dangerous;
+      the connection it creates will feel like coming home.
+    modern_context: >
+      We live behind screens, curated profiles, and emotional armor. Brown's
+      research shows this armor doesn't protect us — it isolates us. The
+      epidemic of loneliness and disconnection is partly an epidemic of
+      vulnerability avoidance.
+    addresses_anti_patterns:
+      - emotional armor
+      - perfectionism
+      - fear of authenticity
+      - disconnection
+    reduces_suffering: 0.8
+    respects_dignity: 0.8
+    promotes_cooperation: 0.8
+    considers_future: 0.5
+    honors_nature: 0.2
+    themes: [compassion, cooperation, self-mastery]
+    citation: "Brene Brown, Daring Greatly (Avery, 2012)"
+
+  - source_text: >
+      Studies in Japan (shinrin-yoku / forest bathing), Finland, and elsewhere
+      consistently show that spending 2 hours per week in nature significantly
+      reduces cortisol, blood pressure, and anxiety while boosting immune function,
+      creativity, and feelings of wellbeing. The effect is dose-dependent and
+      cumulative.
+    source_author: Multiple researchers (Qing Li, Matthew White, et al.)
+    source_work: Various peer-reviewed studies, summarized in "Nature Fix" by Florence Williams
+    source_era: 2010s–2020s CE
+    original_language: English / Japanese
+    core_principle: >
+      Contact with nature is not a luxury — it is a biological need. Humans
+      evolved in nature, and our bodies and minds require it to function properly.
+      Disconnection from nature is a form of deprivation with measurable
+      health consequences.
+    practical_application: >
+      Spend at least 2 hours per week in natural settings — parks, forests,
+      gardens, the ocean. Leave your phone behind or put it away. Engage your
+      senses: smell the earth, listen to birdsong, feel the wind. This is not
+      leisure — it is medicine.
+    modern_context: >
+      The average person now spends 93% of their time indoors. This is
+      unprecedented in human history. Nature deficit disorder is not just a
+      metaphor — it has measurable physiological consequences. Indigenous
+      traditions that emphasize connection to land were prescribing the cure
+      before the disease existed.
+    addresses_anti_patterns:
+      - disconnection from nature
+      - indoor sedentary lifestyle
+      - nature deficit disorder
+      - screen addiction
+    reduces_suffering: 0.7
+    respects_dignity: 0.4
+    promotes_cooperation: 0.3
+    considers_future: 0.7
+    honors_nature: 1.0
+    themes: [stewardship, self-mastery]
+    citation: "Florence Williams, The Nature Fix (W.W. Norton, 2017); Qing Li, Forest Bathing (Viking, 2018)"

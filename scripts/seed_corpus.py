@@ -14,11 +14,12 @@ from sqlalchemy import select
 from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker, AsyncSession
 
 from src.config import get_settings
-from src.models.wisdom import Base, Tradition, Theme, WisdomEntry, WisdomTheme
+from src.models.wisdom import Base, Tradition, Theme, WisdomEntry, WisdomTheme, CrossReference
 
 CORPUS_DIR = Path(__file__).parent.parent / "src" / "corpus"
 TRADITIONS_DIR = CORPUS_DIR / "traditions"
 THEMES_DIR = CORPUS_DIR / "themes"
+CROSS_REFS_FILE = CORPUS_DIR / "cross_references.yaml"
 
 
 async def seed_themes(session: AsyncSession) -> dict[str, uuid.UUID]:
@@ -128,6 +129,73 @@ async def seed_tradition(session: AsyncSession, filepath: Path, theme_map: dict[
     await session.flush()
 
 
+async def seed_cross_references(session: AsyncSession):
+    """Load cross-tradition references from YAML."""
+    data = yaml.safe_load(CROSS_REFS_FILE.read_text())
+
+    for ref in data.get("cross_references", []):
+        # Find source entry
+        source_trad = await session.execute(
+            select(Tradition).where(Tradition.slug == ref["source_tradition"])
+        )
+        source_tradition = source_trad.scalar_one_or_none()
+        if not source_tradition:
+            print(f"    Skipping: tradition '{ref['source_tradition']}' not found")
+            continue
+
+        source_entry_result = await session.execute(
+            select(WisdomEntry).where(
+                WisdomEntry.tradition_id == source_tradition.id,
+                WisdomEntry.source_text.startswith(ref["source_prefix"][:80]),
+            )
+        )
+        source_entry = source_entry_result.scalar_one_or_none()
+
+        # Find target entry
+        target_trad = await session.execute(
+            select(Tradition).where(Tradition.slug == ref["target_tradition"])
+        )
+        target_tradition = target_trad.scalar_one_or_none()
+        if not target_tradition:
+            print(f"    Skipping: tradition '{ref['target_tradition']}' not found")
+            continue
+
+        target_entry_result = await session.execute(
+            select(WisdomEntry).where(
+                WisdomEntry.tradition_id == target_tradition.id,
+                WisdomEntry.source_text.startswith(ref["target_prefix"][:80]),
+            )
+        )
+        target_entry = target_entry_result.scalar_one_or_none()
+
+        if not source_entry or not target_entry:
+            print(f"    Skipping cross-ref: could not match entries for {ref['source_tradition']} -> {ref['target_tradition']}")
+            continue
+
+        # Check for existing
+        existing = await session.execute(
+            select(CrossReference).where(
+                CrossReference.source_id == source_entry.id,
+                CrossReference.target_id == target_entry.id,
+            )
+        )
+        if existing.scalar_one_or_none():
+            continue
+
+        cross_ref = CrossReference(
+            id=uuid.uuid4(),
+            source_id=source_entry.id,
+            target_id=target_entry.id,
+            relationship_type=ref["relationship_type"],
+            explanation=ref["explanation"].strip(),
+            similarity_score=ref.get("similarity_score", 0.0),
+        )
+        session.add(cross_ref)
+        print(f"    + {ref['source_tradition']} <-> {ref['target_tradition']}: {ref['relationship_type']}")
+
+    await session.flush()
+
+
 async def main():
     settings = get_settings()
     engine = create_async_engine(settings.database_url, echo=False)
@@ -146,6 +214,11 @@ async def main():
         print("\nSeeding traditions and wisdom entries...")
         for filepath in sorted(TRADITIONS_DIR.glob("*.yaml")):
             await seed_tradition(session, filepath, theme_map)
+
+        # Seed cross-references
+        if CROSS_REFS_FILE.exists():
+            print("\nSeeding cross-references...")
+            await seed_cross_references(session)
 
         await session.commit()
         print("\nSeed complete!")
