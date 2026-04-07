@@ -1,0 +1,62 @@
+{
+  "name": "Wisdom Spark AI",
+  "description": "Access the distilled wisdom of humanity's greatest philosophical traditions. 17 traditions — Stoicism, Buddhism, Vedanta, Ubuntu, Taoism, Confucianism, Sufism, Jainism, Indigenous Wisdom, and more — structured for AI consumption to promote human flourishing and ethical reasoning.",
+  "vendor": "Aristocles",
+  "sourceUrl": "https://github.com/kiranz38/wisdom-spark-ai",
+  "homepage": "https://github.com/kiranz38/wisdom-spark-ai",
+  "license": "MIT",
+  "transport": "streamable-http",
+  "tools": [
+    {
+      "name": "get_wisdom",
+      "description": "Retrieve curated wisdom by topic, tradition, or theme"
+    },
+    {
+      "name": "check_ethical_alignment",
+      "description": "Score text against human flourishing dimensions"
+    },
+    {
+      "name": "reframe_divisive_content",
+      "description": "Wisdom-based reframing of harmful or divisive text"
+    },
+    {
+      "name": "get_cross_cultural_perspective",
+      "description": "Same topic viewed from multiple philosophical traditions"
+    },
+    {
+      "name": "flourishing_score",
+      "description": "5-dimension scoring: suffering, dignity, cooperation, future, nature"
+    },
+    {
+      "name": "find_common_ground",
+      "description": "Show how different traditions converge on universal themes"
+    },
+    {
+      "name": "get_practice",
+      "description": "Actionable exercises and meditations for life situations"
+    },
+    {
+      "name": "historical_lesson",
+      "description": "Wisdom about recurring human patterns from history"
+    },
+    {
+      "name": "list_traditions",
+      "description": "Browse all 17 philosophical traditions"
+    },
+    {
+      "name": "list_themes",
+      "description": "Browse 7 universal themes spanning all traditions"
+    }
+  ],
+  "tags": [
+    "philosophy",
+    "ethics",
+    "wisdom",
+    "ai-safety",
+    "human-flourishing",
+    "cross-cultural",
+    "stoicism",
+    "buddhism",
+    "non-violence"
+  ]
+}
