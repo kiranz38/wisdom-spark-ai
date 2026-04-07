@@ -6,15 +6,18 @@ services:
     plan: free
     buildCommand: pip install -e . && pip install pyyaml
     startCommand: uvicorn src.app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
     envVars:
       - key: WISDOM_DATABASE_URL
         fromDatabase:
-          name: wisdom-spark-db
+          name: aristocles-db
           property: connectionString
       - key: WISDOM_EMBEDDING_API_KEY
         sync: false
       - key: WISDOM_DEBUG
         value: "false"
+      - key: PYTHON_VERSION
+        value: "3.11.11"
 
   # Autonomous Wisdom Crawler (Background Worker)
   - type: worker
@@ -26,7 +29,7 @@ services:
     envVars:
       - key: CRAWLER_DATABASE_URL
         fromDatabase:
-          name: wisdom-spark-db
+          name: aristocles-db
           property: connectionString
       - key: CRAWLER_LLM_API_KEY
         sync: false
@@ -42,9 +45,5 @@ services:
         value: "30"
       - key: CRAWLER_MIN_FLOURISHING_SCORE
         value: "0.6"
-
-databases:
-  - name: wisdom-spark-db
-    plan: free
-    postgresMajorVersion: 16
-    ipAllowList: []
+      - key: PYTHON_VERSION
+        value: "3.11.11"

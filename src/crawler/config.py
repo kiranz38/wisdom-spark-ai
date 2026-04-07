@@ -1,7 +1,7 @@
 """Crawler configuration — thresholds, schedules, and source definitions."""
 
 from pydantic_settings import BaseSettings
-from pydantic import Field
+from pydantic import Field, field_validator
 
 
 class CrawlerSettings(BaseSettings):
@@ -13,6 +13,16 @@ class CrawlerSettings(BaseSettings):
 
     # Database
     database_url: str = "postgresql+asyncpg://localhost:5432/wisdom_spark"
+
+    @field_validator("database_url", mode="before")
+    @classmethod
+    def fix_postgres_scheme(cls, v: str) -> str:
+        """Render provides postgresql:// but asyncpg needs postgresql+asyncpg://."""
+        if v.startswith("postgresql://"):
+            v = v.replace("postgresql://", "postgresql+asyncpg://", 1)
+        elif v.startswith("postgres://"):
+            v = v.replace("postgres://", "postgresql+asyncpg://", 1)
+        return v
 
     # Embedding
     embedding_api_key: str = ""

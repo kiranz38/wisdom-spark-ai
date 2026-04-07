@@ -3,8 +3,11 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from sqlalchemy import text
 
 from src.config import get_settings
+from src.database import engine
+from src.models.wisdom import Base
 from src.api.routes.wisdom import router as wisdom_router
 from src.api.routes.crawler import router as crawler_router
 from src.middleware.wisdom_proxy import router as proxy_router
@@ -15,6 +18,10 @@ settings = get_settings()
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    # Enable pgvector extension and create tables on startup
+    async with engine.begin() as conn:
+        await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
+        await conn.run_sync(Base.metadata.create_all)
     yield
 
 

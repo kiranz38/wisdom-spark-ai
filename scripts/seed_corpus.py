@@ -200,8 +200,10 @@ async def main():
     settings = get_settings()
     engine = create_async_engine(settings.database_url, echo=False)
 
-    # Create tables
+    # Enable pgvector extension and create tables
+    from sqlalchemy import text
     async with engine.begin() as conn:
+        await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
         await conn.run_sync(Base.metadata.create_all)
     print("Database tables created/verified.")
 
