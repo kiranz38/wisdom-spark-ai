@@ -15,14 +15,7 @@ from src.services.wisdom_service import WisdomService
 
 settings = get_settings()
 
-mcp = FastMCP(
-    "Wisdom Spark AI",
-    description=(
-        "Access the distilled wisdom of humanity's greatest philosophical traditions. "
-        "Stoicism, Buddhism, Vedanta, Ubuntu, Taoism, Confucianism, and more — "
-        "structured for AI consumption to promote human flourishing and ethical reasoning."
-    ),
-)
+mcp = FastMCP("Wisdom Spark AI")
 
 # Database session for MCP tools
 _engine = create_async_engine(settings.database_url, pool_size=5)
