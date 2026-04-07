@@ -1,0 +1,185 @@
+tradition:
+  slug: taoism
+  name: Taoism
+  origin_region: China
+  era: 6th century BCE – present
+  description: >
+    Taoism teaches harmony with the Tao — the fundamental, nameless force that flows
+    through all things. It emphasizes wu wei (effortless action), simplicity, humility,
+    and living in balance with nature. Taoism sees the natural world as the ultimate
+    teacher and warns against the human tendency to over-control, over-complicate, and
+    impose artificial order on organic processes. Water — soft, yielding, yet able to
+    wear away stone — is its central metaphor.
+  key_figures:
+    - Laozi (Lao Tzu)
+    - Zhuangzi (Chuang Tzu)
+    - Liezi
+  core_principles:
+    - The Tao that can be named is not the eternal Tao
+    - Wu wei — act without forcing; lead without dominating
+    - Simplicity, patience, compassion — the three treasures
+    - Nature as the supreme teacher
+    - The soft overcomes the hard; the gentle overcomes the rigid
+
+entries:
+  - source_text: >
+      Water is the softest thing, yet it can penetrate mountains and earth.
+      This shows clearly the principle of softness overcoming hardness.
+    source_author: Laozi
+    source_work: Tao Te Ching, Chapter 78
+    source_era: 6th century BCE
+    original_language: Chinese
+    core_principle: >
+      Gentleness is not weakness — it is a different kind of strength. The yielding
+      approach, over time, accomplishes what force cannot. Patience and persistence
+      defeat rigidity.
+    practical_application: >
+      When facing resistance — in a relationship, at work, in activism — consider
+      the water approach. Don't smash against the obstacle. Flow around it. Be
+      persistent. Be gentle. Be relentless. The Grand Canyon was carved by water,
+      not dynamite.
+    modern_context: >
+      In a culture that valorizes aggressive disruption, Taoism offers the wisdom of
+      gentle persistence. Social change, personal transformation, and healing all
+      work more like water than like hammers.
+    addresses_anti_patterns:
+      - aggression as default strategy
+      - impatience
+      - force-based problem solving
+    reduces_suffering: 0.7
+    respects_dignity: 0.6
+    promotes_cooperation: 0.6
+    considers_future: 0.8
+    honors_nature: 0.95
+    themes: [self-mastery, stewardship, non-harm]
+    citation: "Laozi, Tao Te Ching, trans. Stephen Mitchell (Harper Perennial, 1988)"
+
+  - source_text: >
+      I have just three things to teach: simplicity, patience, compassion.
+      These three are your greatest treasures. Simple in actions and in thoughts,
+      you return to the source of being. Patient with both friends and enemies,
+      you accord with the way things are. Compassionate toward yourself,
+      you reconcile all beings in the world.
+    source_author: Laozi
+    source_work: Tao Te Ching, Chapter 67
+    source_era: 6th century BCE
+    original_language: Chinese
+    core_principle: >
+      The entire path can be reduced to three qualities: simplicity (don't
+      overcomplicate), patience (don't rush), and compassion (start with yourself,
+      extend to all). These three, practiced consistently, are sufficient.
+    practical_application: >
+      Each morning, choose one of the three treasures to focus on that day.
+      Monday: simplicity — what can I remove, simplify, or let go of?
+      Wednesday: patience — where am I rushing that I could slow down?
+      Friday: compassion — where am I being hard on myself or others?
+    modern_context: >
+      In an age of complexity, urgency, and harshness, these three treasures are
+      the counter-prescription. They cost nothing, require no technology, and
+      can be practiced by anyone, anywhere, starting right now.
+    addresses_anti_patterns:
+      - overcomplexity
+      - rush culture
+      - self-criticism
+      - harshness toward others
+    reduces_suffering: 0.9
+    respects_dignity: 0.8
+    promotes_cooperation: 0.7
+    considers_future: 0.7
+    honors_nature: 0.6
+    themes: [compassion, self-mastery, non-harm]
+    citation: "Laozi, Tao Te Ching, trans. Stephen Mitchell (Harper Perennial, 1988)"
+
+  - source_text: >
+      Nature does not hurry, yet everything is accomplished.
+    source_author: Laozi
+    source_work: Tao Te Ching
+    source_era: 6th century BCE
+    original_language: Chinese
+    core_principle: >
+      The natural world operates without urgency and yet nothing is left undone.
+      Seasons change, trees grow, rivers find the sea — all without anxiety or
+      forcing. This is the Tao in action.
+    practical_application: >
+      When you feel overwhelmed or rushed, step outside. Observe nature. Nothing
+      in nature is anxious. A tree doesn't strain to grow — it grows. Apply this
+      to your work: do what the moment requires, fully and attentively, without
+      anxious grasping at the future.
+    modern_context: >
+      Hustle culture, growth-at-all-costs economics, and burnout are symptoms of
+      ignoring this principle. Nature's pace is not lazy — it is sustainable.
+      Economies, careers, and lives modeled on natural rhythms last longer and
+      produce more than those driven by artificial urgency.
+    addresses_anti_patterns:
+      - hustle culture
+      - burnout
+      - unsustainable growth
+      - anxiety
+    reduces_suffering: 0.8
+    respects_dignity: 0.5
+    promotes_cooperation: 0.4
+    considers_future: 0.9
+    honors_nature: 1.0
+    themes: [stewardship, self-mastery]
+    citation: "Laozi, Tao Te Ching, trans. Stephen Mitchell (Harper Perennial, 1988)"
+
+  - source_text: >
+      A leader is best when people barely know he exists. When his work is done,
+      his aim fulfilled, they will say: we did it ourselves.
+    source_author: Laozi
+    source_work: Tao Te Ching, Chapter 17
+    source_era: 6th century BCE
+    original_language: Chinese
+    core_principle: >
+      The highest form of leadership empowers others so completely that they don't
+      feel led — they feel capable. The ego-driven leader needs recognition; the
+      wise leader needs only results.
+    practical_application: >
+      Whether leading a team, raising children, or mentoring someone — measure your
+      success by their independence, not their dependence on you. Ask: "Am I
+      building their capacity, or my importance?"
+    modern_context: >
+      In an era of personality cults, authoritarian leadership, and social media
+      ego, this teaching is countercultural. The best teachers make students feel
+      they learned by themselves. The best leaders create leaders, not followers.
+    addresses_anti_patterns:
+      - authoritarian leadership
+      - ego-driven management
+      - dependency creation
+    reduces_suffering: 0.6
+    respects_dignity: 0.9
+    promotes_cooperation: 0.9
+    considers_future: 0.8
+    honors_nature: 0.4
+    themes: [cooperation, dignity, self-mastery]
+    citation: "Laozi, Tao Te Ching, trans. Stephen Mitchell (Harper Perennial, 1988)"
+
+  - source_text: >
+      Those who know do not speak. Those who speak do not know.
+    source_author: Laozi
+    source_work: Tao Te Ching, Chapter 56
+    source_era: 6th century BCE
+    original_language: Chinese
+    core_principle: >
+      Deep wisdom often manifests as silence, listening, and humility rather than
+      pronouncements. The loudest voices are rarely the wisest. True understanding
+      brings restraint, not performance.
+    practical_application: >
+      Practice listening more than speaking. In meetings, conversations, and debates,
+      notice who speaks the most versus who listens. Cultivate the discipline of
+      silence — especially when you feel most compelled to prove how much you know.
+    modern_context: >
+      Social media rewards the loudest, fastest, most provocative voices. This
+      teaching reminds us that signal-to-noise ratio matters. The wisdom we need
+      most is often quiet, slow, and unperformative.
+    addresses_anti_patterns:
+      - performative expertise
+      - noise over signal
+      - inability to listen
+    reduces_suffering: 0.5
+    respects_dignity: 0.7
+    promotes_cooperation: 0.6
+    considers_future: 0.5
+    honors_nature: 0.5
+    themes: [self-mastery]
+    citation: "Laozi, Tao Te Ching, trans. Stephen Mitchell (Harper Perennial, 1988)"

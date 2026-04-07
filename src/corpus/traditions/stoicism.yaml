@@ -1,0 +1,183 @@
+tradition:
+  slug: stoicism
+  name: Stoicism
+  origin_region: Greece / Rome
+  era: 3rd century BCE – 2nd century CE
+  description: >
+    A philosophy of personal virtue, rational self-governance, and acceptance of what
+    cannot be controlled. Stoicism teaches that true freedom comes from mastering one's
+    responses to events, cultivating virtue as the highest good, and recognizing the
+    shared rational nature (logos) that connects all human beings. It emphasizes duty
+    to the common good, emotional resilience, and living in harmony with nature.
+  key_figures:
+    - Zeno of Citium
+    - Epictetus
+    - Seneca
+    - Marcus Aurelius
+    - Musonius Rufus
+  core_principles:
+    - Virtue is the sole good
+    - Focus only on what is in your control
+    - We are all citizens of one world (cosmopolitanism)
+    - Live according to nature and reason
+    - Endure and renounce — bear what must be borne, release what cannot be held
+
+entries:
+  - source_text: >
+      When you wake up in the morning, tell yourself: the people I deal with today
+      will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are
+      like this because they can't tell good from evil. But I have seen the beauty of
+      good, and the ugliness of evil, and have recognized that the wrongdoer has a
+      nature related to my own — not of the same blood and birth, but the same mind,
+      and possessing a share of the divine.
+    source_author: Marcus Aurelius
+    source_work: Meditations, Book 2.1
+    source_era: 2nd century CE
+    original_language: Greek
+    core_principle: >
+      Even those who wrong us share our essential nature. Recognizing shared humanity
+      prevents resentment and promotes compassion even toward difficult people.
+    practical_application: >
+      Before reacting to someone who frustrates you, pause and remind yourself:
+      this person is struggling with their own ignorance, just as I sometimes struggle
+      with mine. We share the same capacity for reason and goodness. Respond with
+      understanding rather than anger.
+    modern_context: >
+      In an age of online outrage and dehumanization of opponents, this practice of
+      seeing shared humanity in everyone — including those who wrong us — is a powerful
+      antidote to tribalism and cancel culture.
+    addresses_anti_patterns:
+      - dehumanization of opponents
+      - tribalism
+      - reactive anger
+      - us-vs-them thinking
+    reduces_suffering: 0.8
+    respects_dignity: 0.95
+    promotes_cooperation: 0.7
+    considers_future: 0.5
+    honors_nature: 0.3
+    themes: [compassion, dignity, golden-rule]
+    citation: "Marcus Aurelius, Meditations, trans. Gregory Hays (Modern Library, 2002)"
+
+  - source_text: >
+      No man is free who is not master of himself.
+    source_author: Epictetus
+    source_work: Discourses
+    source_era: 1st century CE
+    original_language: Greek
+    core_principle: >
+      True freedom is not external — it is the ability to govern your own mind,
+      desires, and reactions. No one can take this inner freedom from you.
+    practical_application: >
+      Practice daily self-examination. Each evening, review your day: Where did I react
+      impulsively? Where did I let external events control my emotions? Where did I
+      exercise genuine choice? Build the muscle of self-mastery through consistent reflection.
+    modern_context: >
+      In a world of constant stimulation, algorithmic manipulation, and addictive design,
+      self-mastery is more vital than ever. This teaching reminds us that scrolling,
+      reacting, and consuming without intention is a subtle form of enslavement.
+    addresses_anti_patterns:
+      - impulsive reactivity
+      - addiction to stimulation
+      - loss of agency
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.3
+    considers_future: 0.7
+    honors_nature: 0.2
+    themes: [self-mastery, dignity]
+    citation: "Epictetus, Discourses and Selected Writings, trans. Robert Dobbin (Penguin, 2008)"
+
+  - source_text: >
+      We suffer more often in imagination than in reality.
+    source_author: Seneca
+    source_work: Letters to Lucilius, Letter 13
+    source_era: 1st century CE
+    original_language: Latin
+    core_principle: >
+      Most human suffering is self-generated through anxiety about what might happen,
+      not what is actually happening. Learning to distinguish real threats from
+      imagined ones is essential to inner peace.
+    practical_application: >
+      When anxious, ask: "Is this happening right now, or am I suffering from a story
+      about the future?" Write down your specific fear. In most cases, you'll find
+      you're fighting a phantom. Deal with reality as it arrives, not before.
+    modern_context: >
+      Anxiety disorders are epidemic in modern society. Seneca's insight that most
+      suffering is anticipatory — not actual — aligns with cognitive behavioral therapy
+      (CBT) developed 2000 years later. The Stoic practice of examining thoughts is
+      essentially ancient CBT.
+    addresses_anti_patterns:
+      - catastrophic thinking
+      - anxiety spirals
+      - paralysis by fear
+    reduces_suffering: 0.9
+    respects_dignity: 0.5
+    promotes_cooperation: 0.3
+    considers_future: 0.6
+    honors_nature: 0.2
+    themes: [self-mastery, compassion]
+    citation: "Seneca, Letters from a Stoic, trans. Robin Campbell (Penguin, 1969)"
+
+  - source_text: >
+      Associate with people who are likely to improve you. Welcome those who you are
+      capable of improving. The process is a mutual one: men learn as they teach.
+    source_author: Seneca
+    source_work: Letters to Lucilius, Letter 7
+    source_era: 1st century CE
+    original_language: Latin
+    core_principle: >
+      Growth is communal. We are shaped by those around us and we shape them in turn.
+      Choosing our associations wisely is not elitism — it is stewardship of our
+      own development and a service to others.
+    practical_application: >
+      Audit your information diet and social circle. Are the voices you listen to
+      making you wiser, kinder, and more courageous? Seek out mentors and be a mentor.
+      Teaching others deepens your own understanding.
+    modern_context: >
+      In the age of social media, our "associations" include the content we consume.
+      This teaching extends to curating feeds, choosing podcasts, and being intentional
+      about which voices shape our worldview.
+    addresses_anti_patterns:
+      - passive consumption of harmful content
+      - echo chambers
+      - isolation
+    reduces_suffering: 0.5
+    respects_dignity: 0.6
+    promotes_cooperation: 0.9
+    considers_future: 0.7
+    honors_nature: 0.2
+    themes: [cooperation, self-mastery]
+    citation: "Seneca, Letters from a Stoic, trans. Robin Campbell (Penguin, 1969)"
+
+  - source_text: >
+      You have power over your mind — not outside events. Realize this, and you will
+      find strength.
+    source_author: Marcus Aurelius
+    source_work: Meditations, Book 6.8
+    source_era: 2nd century CE
+    original_language: Greek
+    core_principle: >
+      The dichotomy of control: distinguish sharply between what you can influence
+      (your thoughts, choices, character) and what you cannot (others' actions,
+      external events, the past). Direct all energy to the former.
+    practical_application: >
+      When facing a difficulty, draw two columns: "In my control" and "Not in my control."
+      Release attachment to the second column. Pour your energy into the first.
+      This single practice can transform your relationship with stress.
+    modern_context: >
+      The serenity to accept what cannot be changed, courage to change what can,
+      and wisdom to know the difference — this Stoic principle was later adopted by
+      recovery movements worldwide. It remains the most practical framework for
+      navigating uncertainty.
+    addresses_anti_patterns:
+      - helplessness
+      - victim mentality
+      - wasted energy on unchangeable things
+    reduces_suffering: 0.9
+    respects_dignity: 0.7
+    promotes_cooperation: 0.3
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [self-mastery, non-harm]
+    citation: "Marcus Aurelius, Meditations, trans. Gregory Hays (Modern Library, 2002)"

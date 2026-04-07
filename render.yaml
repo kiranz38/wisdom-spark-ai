@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: wisdom-spark-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -e . && pip install pyyaml
+    startCommand: uvicorn src.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: WISDOM_DATABASE_URL
+        fromDatabase:
+          name: wisdom-spark-db
+          property: connectionString
+      - key: WISDOM_EMBEDDING_API_KEY
+        sync: false
+      - key: WISDOM_DEBUG
+        value: "false"
+
+databases:
+  - name: wisdom-spark-db
+    plan: free
+    postgresMajorVersion: 16
+    ipAllowList: []

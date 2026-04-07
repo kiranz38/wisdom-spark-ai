@@ -1,0 +1,186 @@
+tradition:
+  slug: buddhism
+  name: Buddhism
+  origin_region: India / East Asia / Southeast Asia
+  era: 5th century BCE – present
+  description: >
+    A path of practice and spiritual development leading to insight into the true
+    nature of reality. Central to Buddhism are the Four Noble Truths: suffering exists,
+    suffering has a cause (craving/attachment), suffering can end, and there is a path
+    to that end (the Eightfold Path). Buddhism emphasizes compassion for all sentient
+    beings, mindfulness, non-attachment, interdependence, and the impermanent nature
+    of all phenomena.
+  key_figures:
+    - Siddhartha Gautama (The Buddha)
+    - Nagarjuna
+    - Thich Nhat Hanh
+    - Dalai Lama
+    - Dogen
+  core_principles:
+    - The Four Noble Truths
+    - The Eightfold Path (right view, intention, speech, action, livelihood, effort, mindfulness, concentration)
+    - Interdependence (pratityasamutpada) — nothing exists in isolation
+    - Compassion (karuna) for all sentient beings
+    - Non-attachment — freedom from clinging
+
+entries:
+  - source_text: >
+      Hatred does not cease by hatred, but only by love; this is the eternal rule.
+    source_author: The Buddha
+    source_work: Dhammapada, Verse 5
+    source_era: 5th century BCE
+    original_language: Pali
+    core_principle: >
+      Responding to hatred with hatred only multiplies suffering. The cycle of
+      violence and resentment can only be broken by a fundamentally different response:
+      love, compassion, and understanding.
+    practical_application: >
+      When someone wrongs you, resist the urge to retaliate in kind. Instead, pause.
+      Breathe. Recognize that the person who harmed you is themselves suffering.
+      Choose a response that breaks the cycle rather than perpetuating it. This is not
+      weakness — it is the most courageous and effective response.
+    modern_context: >
+      In an era of online pile-ons, political tribalism, and escalating conflicts,
+      this ancient teaching is revolutionary. Every cycle of retaliation — personal,
+      political, international — proves its truth: hatred breeds more hatred.
+      The courage to respond differently is what changes the trajectory.
+    addresses_anti_patterns:
+      - cycles of retaliation
+      - hatred and vengeance
+      - tribalism
+      - dehumanization
+    reduces_suffering: 0.95
+    respects_dignity: 0.9
+    promotes_cooperation: 0.85
+    considers_future: 0.7
+    honors_nature: 0.4
+    themes: [compassion, non-harm, golden-rule]
+    citation: "Dhammapada, trans. Eknath Easwaran (Nilgiri Press, 2007)"
+
+  - source_text: >
+      In the sky, there is no distinction of east and west; people create distinctions
+      out of their own minds and then believe them to be true.
+    source_author: The Buddha
+    source_work: Traditional attribution
+    source_era: 5th century BCE
+    original_language: Pali
+    core_principle: >
+      The divisions we see between peoples — race, nation, caste, religion — are
+      mental constructs, not ultimate reality. When we mistake our categories for
+      truth, we create suffering.
+    practical_application: >
+      Notice when you categorize someone — by nationality, political party, religion,
+      appearance. Ask: "Is this category helping me see this person, or is it
+      preventing me from seeing them?" Practice looking past labels to the human being.
+    modern_context: >
+      Every form of discrimination — racism, casteism, religious bigotry, nationalism —
+      rests on the belief that human categories are real and important. This teaching
+      strikes at the root: the categories themselves are mind-made. We can unmake them.
+    addresses_anti_patterns:
+      - racism
+      - casteism
+      - religious bigotry
+      - nationalism as supremacy
+      - all identity-based division
+    reduces_suffering: 0.85
+    respects_dignity: 0.95
+    promotes_cooperation: 0.9
+    considers_future: 0.7
+    honors_nature: 0.4
+    themes: [dignity, compassion, non-harm, golden-rule]
+    citation: "Traditional Buddhist teaching"
+
+  - source_text: >
+      If you light a lamp for someone else, it will also brighten your path.
+    source_author: The Buddha
+    source_work: Traditional attribution
+    source_era: 5th century BCE
+    original_language: Pali
+    core_principle: >
+      Helping others is not self-sacrifice — it is self-fulfillment. Compassion
+      benefits the giver as much as the receiver. We are interconnected; lifting
+      others lifts ourselves.
+    practical_application: >
+      Each day, do one thing solely for someone else's benefit — without expectation
+      of return. Notice how it affects your own state of mind. Generosity and
+      compassion are practices that strengthen with use, like muscles.
+    modern_context: >
+      Research in positive psychology confirms what Buddhism taught millennia ago:
+      acts of kindness and generosity measurably increase the wellbeing of the giver.
+      Compassion is not a zero-sum game.
+    addresses_anti_patterns:
+      - selfishness
+      - zero-sum thinking
+      - isolation
+    reduces_suffering: 0.8
+    respects_dignity: 0.7
+    promotes_cooperation: 0.9
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [compassion, cooperation]
+    citation: "Traditional Buddhist teaching"
+
+  - source_text: >
+      We are what we think. All that we are arises with our thoughts.
+      With our thoughts, we make the world.
+    source_author: The Buddha
+    source_work: Dhammapada, Verse 1
+    source_era: 5th century BCE
+    original_language: Pali
+    core_principle: >
+      The quality of our inner world determines the quality of the outer world
+      we create. Thoughts of hatred create a hateful world; thoughts of compassion
+      create a compassionate one. Guarding and cultivating the mind is therefore
+      the most consequential act.
+    practical_application: >
+      Practice mindfulness of thought. Notice the quality of your thoughts throughout
+      the day. When you catch a thought of ill-will, judgment, or division, don't
+      suppress it — observe it, understand it, and consciously choose a wiser thought.
+      Over time, the pattern shifts.
+    modern_context: >
+      This is directly relevant to AI and data: the "thoughts" we feed AI systems
+      shape the world those systems help create. Garbage in, garbage out. Wisdom in,
+      wisdom out. The data we choose to train on is a civilizational choice about
+      what kind of world we want.
+    addresses_anti_patterns:
+      - unconscious negative thinking
+      - toxic information diets
+      - mindless reactivity
+    reduces_suffering: 0.8
+    respects_dignity: 0.6
+    promotes_cooperation: 0.5
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [self-mastery, compassion]
+    citation: "Dhammapada, trans. Eknath Easwaran (Nilgiri Press, 2007)"
+
+  - source_text: >
+      As a bee gathering nectar does not harm or disturb the color and fragrance
+      of the flower, so do the wise move through the world.
+    source_author: The Buddha
+    source_work: Dhammapada, Verse 49
+    source_era: 5th century BCE
+    original_language: Pali
+    core_principle: >
+      It is possible to take what you need from the world without destroying it.
+      The wise person moves through life lightly, benefiting from nature without
+      depleting it, interacting with others without harming them.
+    practical_application: >
+      In every interaction — with people, with resources, with nature — ask: "Am I
+      taking without destroying? Am I leaving this better than I found it, or at
+      least no worse?" Practice being the bee, not the locust.
+    modern_context: >
+      This is the essence of sustainability, stated 2,500 years before the word
+      existed. It applies to environmental stewardship, economic systems, and
+      even how we treat attention and trust in the digital age.
+    addresses_anti_patterns:
+      - environmental destruction
+      - extractive economics
+      - exploitation
+    reduces_suffering: 0.6
+    respects_dignity: 0.7
+    promotes_cooperation: 0.5
+    considers_future: 0.9
+    honors_nature: 0.95
+    themes: [stewardship, non-harm]
+    citation: "Dhammapada, trans. Eknath Easwaran (Nilgiri Press, 2007)"

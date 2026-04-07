@@ -1,0 +1,93 @@
+themes:
+  - slug: compassion
+    name: Compassion
+    description: >
+      The ability to feel with and for others — to recognize suffering and be moved
+      to alleviate it. Found in every major tradition: karuna (Buddhism), ren
+      (Confucianism), chesed (Judaism), rahmah (Islam), agape (Christianity),
+      daya (Hinduism), ubuntu (African philosophy).
+    anti_patterns:
+      - cruelty
+      - indifference to suffering
+      - dehumanization
+      - schadenfreude
+
+  - slug: non-harm
+    name: Non-Harm (Ahimsa)
+    description: >
+      The principle of not causing unnecessary suffering to any living being.
+      Called ahimsa in Sanskrit traditions, the first precept in Buddhism,
+      and echoed in the Hippocratic oath, indigenous land ethics, and Jain philosophy.
+      Non-harm is the minimum ethical floor — the thing every tradition agrees on first.
+    anti_patterns:
+      - violence
+      - environmental destruction
+      - exploitation
+      - cruelty to animals
+
+  - slug: dignity
+    name: Human Dignity
+    description: >
+      The inherent, inviolable worth of every human being regardless of their
+      circumstances, identity, abilities, or social status. Grounded variously
+      in the divine image (Abrahamic faiths), shared rational nature (Stoicism),
+      universal Atman (Vedanta), or relational personhood (Ubuntu).
+    anti_patterns:
+      - racism
+      - casteism
+      - slavery
+      - dehumanization
+      - discrimination based on gender, sexuality, disability
+
+  - slug: stewardship
+    name: Environmental Stewardship
+    description: >
+      The responsibility to care for the natural world — not as owners but as
+      guardians. Found in indigenous traditions (land as sacred trust), Taoism
+      (harmony with nature), Buddhism (interdependence with all life), and
+      modern environmental ethics. We borrow the earth from future generations.
+    anti_patterns:
+      - environmental destruction
+      - extractive economics
+      - short-term thinking at nature's expense
+      - denial of ecological interconnection
+
+  - slug: cooperation
+    name: Cooperation & Community
+    description: >
+      The recognition that human flourishing is a collective achievement.
+      No individual thrives in isolation. From Ubuntu ("I am because we are")
+      to Confucian social harmony to Aristotle's "man is a political animal" —
+      every tradition affirms that cooperation is not optional but essential.
+    anti_patterns:
+      - radical individualism
+      - zero-sum competition
+      - isolation
+      - tribalism (cooperation limited to in-group)
+
+  - slug: golden-rule
+    name: The Golden Rule
+    description: >
+      Treat others as you wish to be treated (or: do not treat others as you
+      would not wish to be treated). This principle has been independently
+      discovered in at least 20 traditions across every continent and era.
+      Its universality suggests it is not a cultural invention but a feature
+      of ethical reality itself.
+    anti_patterns:
+      - selfishness
+      - cruelty
+      - exploitation
+      - double standards
+
+  - slug: self-mastery
+    name: Self-Mastery & Inner Freedom
+    description: >
+      The cultivation of inner discipline, awareness, and freedom from
+      compulsive reactivity. Stoic apatheia, Buddhist mindfulness, Taoist wu wei,
+      Vedantic self-knowledge, and Confucian self-cultivation all point to the same
+      truth: outer peace begins with inner governance.
+    anti_patterns:
+      - impulsive reactivity
+      - addiction
+      - unconscious living
+      - being controlled by external events

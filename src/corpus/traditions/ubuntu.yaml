@@ -1,0 +1,160 @@
+tradition:
+  slug: ubuntu
+  name: Ubuntu Philosophy
+  origin_region: Southern Africa / Sub-Saharan Africa
+  era: Ancient oral tradition, formalized in modern era
+  description: >
+    Ubuntu is an African philosophical concept meaning "I am because we are."
+    It expresses the belief that a person's humanity is defined through their
+    relationships with others. No one exists in isolation — we are woven into a
+    fabric of community. Ubuntu emphasizes communal responsibility, restorative
+    justice, shared humanity, hospitality, and the recognition that harming another
+    diminishes oneself. It was central to South Africa's Truth and Reconciliation
+    process.
+  key_figures:
+    - Desmond Tutu
+    - Nelson Mandela
+    - Augustine Shutte
+    - Mogobe Ramose
+  core_principles:
+    - "Umuntu ngumuntu ngabantu" — a person is a person through other persons
+    - Humanity is a quality we owe to each other
+    - Restorative justice over retributive justice
+    - Communal responsibility for individual wellbeing
+    - Hospitality to strangers as a moral imperative
+
+entries:
+  - source_text: >
+      A person with ubuntu is open and available to others, affirming of others,
+      does not feel threatened that others are able and good, for he or she has a
+      proper self-assurance that comes from knowing that he or she belongs in a
+      greater whole and is diminished when others are humiliated or diminished,
+      when others are tortured or oppressed.
+    source_author: Desmond Tutu
+    source_work: No Future Without Forgiveness
+    source_era: 1999 CE
+    original_language: English
+    core_principle: >
+      Your humanity is bound up with mine. When you are diminished, I am diminished.
+      When you flourish, I flourish. This is not sentiment — it is the fundamental
+      structure of human existence.
+    practical_application: >
+      When you see someone being humiliated — online, at work, in public — recognize
+      that their diminishment is your diminishment. Speak up not from superiority but
+      from recognition: we are one fabric. When someone else succeeds, celebrate
+      genuinely — their gain is not your loss.
+    modern_context: >
+      In a culture of zero-sum competition, where one person's success is framed as
+      another's failure, Ubuntu offers a radical alternative: we rise together or we
+      fall together. This philosophy directly informed South Africa's choice of
+      reconciliation over retribution after apartheid.
+    addresses_anti_patterns:
+      - zero-sum thinking
+      - bystander apathy
+      - competitive dehumanization
+      - isolation
+    reduces_suffering: 0.9
+    respects_dignity: 0.95
+    promotes_cooperation: 1.0
+    considers_future: 0.7
+    honors_nature: 0.4
+    themes: [cooperation, dignity, compassion, golden-rule]
+    citation: "Desmond Tutu, No Future Without Forgiveness (Doubleday, 1999)"
+
+  - source_text: >
+      Umuntu ngumuntu ngabantu — I am because we are.
+    source_author: Traditional Zulu/Xhosa proverb
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Zulu
+    core_principle: >
+      Individual identity is not self-generated. You become a person through your
+      relationships, your community, your bonds with others. Selfhood is relational,
+      not atomic. This is not a loss of individuality but its fullest expression.
+    practical_application: >
+      Reflect on who you are. How much of your identity was shaped by others —
+      parents, teachers, friends, community? Recognize that your very self is a
+      gift from the web of relationships that holds you. Act accordingly: invest in
+      community, not just individual achievement.
+    modern_context: >
+      Western individualism says "I think, therefore I am." Ubuntu says "We are,
+      therefore I am." In an epidemic of loneliness and disconnection, Ubuntu points
+      toward the cure: not more self-optimization, but deeper genuine connection.
+    addresses_anti_patterns:
+      - radical individualism
+      - loneliness epidemic
+      - disconnection from community
+    reduces_suffering: 0.8
+    respects_dignity: 0.8
+    promotes_cooperation: 1.0
+    considers_future: 0.7
+    honors_nature: 0.4
+    themes: [cooperation, dignity, compassion]
+    citation: "Traditional proverb, discussed in Mogobe Ramose, African Philosophy Through Ubuntu (2005)"
+
+  - source_text: >
+      If you want to go fast, go alone. If you want to go far, go together.
+    source_author: African proverb
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various African languages
+    core_principle: >
+      Individual speed is impressive but unsustainable. Collective movement is
+      slower but reaches further. The greatest human achievements — from civilization
+      itself to justice movements — were collective, not individual.
+    practical_application: >
+      When facing a big challenge, resist the temptation to do it all yourself.
+      Build a team. Include diverse perspectives. Move at the speed of trust.
+      The result will be deeper, more sustainable, and more just than anything
+      one person could achieve alone.
+    modern_context: >
+      Startup culture glorifies the lone genius. But every lasting institution,
+      every civil rights movement, every cultural transformation was collective.
+      This proverb is the antidote to the myth of the solo hero.
+    addresses_anti_patterns:
+      - hero worship
+      - burnout from solo effort
+      - exclusion of diverse voices
+    reduces_suffering: 0.5
+    respects_dignity: 0.7
+    promotes_cooperation: 1.0
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [cooperation]
+    citation: "Traditional African proverb"
+
+  - source_text: >
+      No one is born hating another person because of the color of his skin,
+      or his background, or his religion. People must learn to hate, and if they
+      can learn to hate, they can be taught to love, for love comes more naturally
+      to the human heart than its opposite.
+    source_author: Nelson Mandela
+    source_work: Long Walk to Freedom
+    source_era: 1994 CE
+    original_language: English
+    core_principle: >
+      Hatred is learned, not innate. This means it can be unlearned. Love and
+      connection are the default state of the human heart — hatred is a distortion
+      that must be actively installed. This gives immense hope.
+    practical_application: >
+      When you encounter hatred — in yourself or others — recognize it as learned
+      behavior, not human nature. Ask: "Where did this hatred come from? Who taught
+      it? What would I believe if I hadn't been taught this?" Then begin the
+      unlearning.
+    modern_context: >
+      This is perhaps the most hopeful statement about human nature ever written
+      by someone who had every reason to be bitter. Mandela spent 27 years in
+      prison and emerged not with hatred but with this conviction. If hatred is
+      learned, then education, exposure, and love can undo it.
+    addresses_anti_patterns:
+      - racism
+      - religious bigotry
+      - all learned hatred
+      - despair about human nature
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.9
+    considers_future: 0.9
+    honors_nature: 0.3
+    themes: [compassion, dignity, non-harm, golden-rule]
+    citation: "Nelson Mandela, Long Walk to Freedom (Little, Brown, 1994)"

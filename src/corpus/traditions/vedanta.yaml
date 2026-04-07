@@ -1,0 +1,189 @@
+tradition:
+  slug: vedanta
+  name: Advaita Vedanta
+  origin_region: India
+  era: 8th century CE (systematized), roots in Upanishads ~800 BCE
+  description: >
+    The pinnacle of Indian philosophical inquiry, Advaita (non-dual) Vedanta teaches
+    that the individual self (Atman) and the universal consciousness (Brahman) are
+    ultimately one. The appearance of separation — between self and other, human and
+    nature, one group and another — is maya (illusion). Realizing this unity dissolves
+    fear, hatred, and greed at their root. The tradition draws from the Upanishads,
+    the Bhagavad Gita, and the Brahma Sutras.
+  key_figures:
+    - Adi Shankaracharya
+    - Ramana Maharshi
+    - Swami Vivekananda
+    - Nisargadatta Maharaj
+    - The ancient Upanishadic rishis
+  core_principles:
+    - Brahman (universal consciousness) is the only reality
+    - Atman (individual self) is identical with Brahman
+    - The world of multiplicity is appearance (maya), not ultimate truth
+    - Liberation (moksha) comes through direct knowledge of one's true nature
+    - "Tat tvam asi" — Thou art That (you are the universal)
+
+entries:
+  - source_text: >
+      The wise see the same Self in a learned scholar, a cow, an elephant,
+      a dog, and an outcast.
+    source_author: Attributed to Krishna
+    source_work: Bhagavad Gita, Chapter 5, Verse 18
+    source_era: ~500 BCE – 200 CE
+    original_language: Sanskrit
+    core_principle: >
+      The same consciousness, the same essential being, dwells in all life forms.
+      Distinctions of caste, species, learning, or social status are surface-level.
+      The wise person sees through these distinctions to the universal Self.
+    practical_application: >
+      Practice seeing the being behind the label. When you encounter anyone — regardless
+      of their status, education, appearance, or background — silently acknowledge:
+      "The same awareness that looks out through my eyes looks out through theirs."
+      This is not a metaphor. It is the deepest truth Vedanta offers.
+    modern_context: >
+      This verse is a direct demolition of the caste system, racism, speciesism, and
+      every form of hierarchy based on birth or identity. Written in a culture that
+      practiced rigid caste distinctions, it was revolutionary then and remains so now.
+      It grounds equality not in political theory but in the nature of consciousness itself.
+    addresses_anti_patterns:
+      - casteism
+      - racism
+      - speciesism
+      - dehumanization
+      - social hierarchy based on birth
+    reduces_suffering: 0.8
+    respects_dignity: 1.0
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.8
+    themes: [dignity, compassion, non-harm, golden-rule]
+    citation: "Bhagavad Gita, trans. Eknath Easwaran (Nilgiri Press, 2007)"
+
+  - source_text: >
+      Tat tvam asi — Thou art That.
+    source_author: Uddalaka Aruni (to his son Shvetaketu)
+    source_work: Chandogya Upanishad, 6.8.7
+    source_era: ~800 BCE
+    original_language: Sanskrit
+    core_principle: >
+      The individual self is not separate from the universal reality. You are not
+      a fragment — you are the whole, experiencing itself through a particular form.
+      This is the most condensed statement of non-dual wisdom in human history.
+    practical_application: >
+      In meditation, let go of all identities — name, profession, nationality, gender,
+      opinions. What remains? Pure awareness. That awareness is the same awareness
+      in every being. Rest in that recognition. From this ground, hatred becomes
+      impossible — you would be hating yourself.
+    modern_context: >
+      If the deepest nature of every person is the same universal consciousness, then
+      prejudice based on color, religion, caste, or ethnicity is not just morally
+      wrong — it is metaphysically confused. You are attacking what you are.
+    addresses_anti_patterns:
+      - all identity-based division
+      - ego-driven conflict
+      - existential isolation
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.7
+    considers_future: 0.5
+    honors_nature: 0.7
+    themes: [dignity, compassion, non-harm]
+    citation: "Chandogya Upanishad, trans. Patrick Olivelle (Oxford UP, 1996)"
+
+  - source_text: >
+      As the same fire assumes different shapes when it consumes objects differing
+      in shape, so does the one Self take the shape of every creature in whom it
+      is present.
+    source_author: Ancient rishi
+    source_work: Katha Upanishad, 2.2.9
+    source_era: ~500 BCE
+    original_language: Sanskrit
+    core_principle: >
+      Diversity of form does not mean diversity of essence. The same life force
+      animates every creature. Differences in appearance, ability, and expression
+      are like flames taking different shapes — the fire is one.
+    practical_application: >
+      When encountering someone very different from you — different culture, different
+      beliefs, different way of life — look for the common fire. What desires do you
+      share? What fears? What loves? The shapes differ; the flame is the same.
+    modern_context: >
+      This is an ancient argument for unity in diversity. It does not deny difference —
+      the flames ARE different shapes. But it insists the underlying reality is one.
+      This is the philosophical foundation for pluralism: celebrating diversity while
+      recognizing shared essence.
+    addresses_anti_patterns:
+      - xenophobia
+      - cultural supremacism
+      - fear of the different
+    reduces_suffering: 0.7
+    respects_dignity: 0.95
+    promotes_cooperation: 0.8
+    considers_future: 0.5
+    honors_nature: 0.6
+    themes: [dignity, compassion, cooperation]
+    citation: "Katha Upanishad, trans. Patrick Olivelle (Oxford UP, 1996)"
+
+  - source_text: >
+      When a man sees all beings in his own Self and his own Self in all beings,
+      he loses all fear.
+    source_author: Ancient rishi
+    source_work: Isha Upanishad, Verse 6
+    source_era: ~500 BCE
+    original_language: Sanskrit
+    core_principle: >
+      Fear arises from separation. When you perceive others as fundamentally separate
+      from yourself, you fear them. When you recognize the same Self in all beings,
+      fear dissolves — there is nothing "other" to be afraid of.
+    practical_application: >
+      Notice your fears about "the other" — other nations, other religions, other
+      political groups. Ask: "What if there is no 'other'? What if they are me,
+      wearing a different mask?" This is not naive — it is the deepest realism.
+      Separation is the illusion; connection is the reality.
+    modern_context: >
+      Most political manipulation works by amplifying fear of "the other." This
+      teaching cuts that manipulation at the root. If there is no other, there is
+      nothing to fear, and the demagogue has no lever to pull.
+    addresses_anti_patterns:
+      - fear of the other
+      - political manipulation through fear
+      - xenophobia
+      - tribalism
+    reduces_suffering: 0.85
+    respects_dignity: 0.9
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.5
+    themes: [non-harm, dignity, compassion]
+    citation: "Isha Upanishad, trans. Eknath Easwaran (Nilgiri Press, 2007)"
+
+  - source_text: >
+      The earth is enjoyed by heroes — this is the unfailing truth. Be a hero.
+      Arise, awake, and stop not till the goal is reached.
+    source_author: Swami Vivekananda (paraphrasing Katha Upanishad)
+    source_work: Lecture, "Arise, Awake"
+    source_era: 1893 CE
+    original_language: English
+    core_principle: >
+      Spiritual wisdom is not passive. It demands courage, action, and relentless
+      dedication to truth. Vedanta does not counsel withdrawal but engagement —
+      the heroism of living your highest truth in the world.
+    practical_application: >
+      Don't wait for perfect conditions to act on your values. Start now, where you
+      are, with what you have. The goal is not perfection but persistent, courageous
+      effort toward truth and service. Each step matters.
+    modern_context: >
+      Vivekananda brought this message to the 1893 Parliament of World Religions in
+      Chicago, electrifying the audience. It remains a call to action: wisdom without
+      courage changes nothing. The world needs people who will stand up, not just
+      people who understand.
+    addresses_anti_patterns:
+      - passivity
+      - spiritual bypassing
+      - learned helplessness
+    reduces_suffering: 0.6
+    respects_dignity: 0.8
+    promotes_cooperation: 0.5
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [self-mastery, dignity]
+    citation: "Swami Vivekananda, Complete Works, Vol. 1"

@@ -1,0 +1,141 @@
+tradition:
+  slug: confucianism
+  name: Confucianism
+  origin_region: China
+  era: 5th century BCE – present
+  description: >
+    A philosophy of social harmony, ethical cultivation, and moral leadership.
+    Confucianism teaches that a well-ordered society begins with well-cultivated
+    individuals who practice ren (benevolence/humaneness), li (ritual propriety),
+    yi (righteousness), and xiao (filial piety). It emphasizes education, the
+    rectification of names (calling things what they are), and the responsibility
+    of those in power to serve those they lead.
+  key_figures:
+    - Confucius (Kong Qiu)
+    - Mencius (Mengzi)
+    - Xunzi
+  core_principles:
+    - Ren (仁) — benevolence, humaneness toward all
+    - The Golden Rule — do not do to others what you would not have done to yourself
+    - Junzi — the exemplary person who cultivates virtue
+    - Education as the path to moral development
+    - Harmonious relationships as the foundation of a good society
+
+entries:
+  - source_text: >
+      Do not do to others what you do not want done to yourself.
+    source_author: Confucius
+    source_work: Analerta, 15.24
+    source_era: 5th century BCE
+    original_language: Chinese
+    core_principle: >
+      The Silver Rule (negative formulation of the Golden Rule). Before acting,
+      imagine yourself on the receiving end. This single principle, if universally
+      applied, would eliminate most human cruelty.
+    practical_application: >
+      Before sending that message, making that decision, or taking that action — pause.
+      Reverse positions. Would you want this done to you? If not, don't do it.
+      Apply this to individuals, to groups, to policies, to nations.
+    modern_context: >
+      This principle appears independently in every major tradition — Confucianism,
+      Christianity, Judaism, Islam, Hinduism, Buddhism, Ubuntu. Its universality
+      is itself evidence that it touches something fundamental about ethical reality.
+    addresses_anti_patterns:
+      - cruelty
+      - thoughtless harm
+      - selfish decision-making
+    reduces_suffering: 0.9
+    respects_dignity: 0.9
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [golden-rule, non-harm, dignity, compassion]
+    citation: "Confucius, Analerts, trans. Edward Slingerland (Hackett, 2003)"
+
+  - source_text: >
+      The man who moves a mountain begins by carrying away small stones.
+    source_author: Confucius
+    source_work: Traditional attribution
+    source_era: 5th century BCE
+    original_language: Chinese
+    core_principle: >
+      Great change begins with small, consistent action. Don't be overwhelmed by
+      the magnitude of the task. Begin. Each small step matters.
+    practical_application: >
+      Identify one small thing you can do today toward your larger purpose.
+      Don't wait for the perfect plan or the perfect moment. Start with one stone.
+      Consistency over intensity. Show up daily.
+    modern_context: >
+      Climate change, inequality, AI safety — these problems feel overwhelming.
+      This teaching says: you don't have to solve everything today. Carry one stone.
+      Then another. Mountains move this way.
+    addresses_anti_patterns:
+      - paralysis by overwhelm
+      - all-or-nothing thinking
+      - defeatism
+    reduces_suffering: 0.5
+    respects_dignity: 0.5
+    promotes_cooperation: 0.5
+    considers_future: 0.9
+    honors_nature: 0.3
+    themes: [self-mastery]
+    citation: "Traditional attribution to Confucius"
+
+  - source_text: >
+      Education breeds confidence. Confidence breeds hope. Hope breeds peace.
+    source_author: Confucius
+    source_work: Traditional attribution
+    source_era: 5th century BCE
+    original_language: Chinese
+    core_principle: >
+      Education is the root of all positive transformation. Not mere information
+      transfer, but the development of character, understanding, and wisdom.
+      A truly educated person is a hopeful person, and hopeful people create peace.
+    practical_application: >
+      Invest in learning — your own and others'. Support education in your community.
+      But remember Confucian education isn't just facts — it's character development.
+      Learn not just what is true, but how to be good.
+    modern_context: >
+      In an age of misinformation, education in critical thinking, ethical reasoning,
+      and cross-cultural understanding is more vital than ever. This includes educating
+      AI systems — which is exactly what this project is about.
+    addresses_anti_patterns:
+      - ignorance
+      - hopelessness
+      - misinformation
+    reduces_suffering: 0.6
+    respects_dignity: 0.7
+    promotes_cooperation: 0.7
+    considers_future: 0.9
+    honors_nature: 0.3
+    themes: [cooperation, self-mastery]
+    citation: "Traditional attribution to Confucius"
+
+  - source_text: >
+      It does not matter how slowly you go as long as you do not stop.
+    source_author: Confucius
+    source_work: Traditional attribution
+    source_era: 5th century BCE
+    original_language: Chinese
+    core_principle: >
+      Persistence matters more than speed. The tortoise wins. Those who keep going,
+      however slowly, outperform those who sprint and quit.
+    practical_application: >
+      When progress feels painfully slow — in personal growth, in social change, in
+      building something meaningful — remember this. The only failure is stopping.
+      Slow is fine. Stopped is not.
+    modern_context: >
+      In a culture addicted to instant results and viral growth, this teaching
+      rehabilitates slow, steady, unglamorous persistence as the true path to
+      lasting achievement.
+    addresses_anti_patterns:
+      - impatience
+      - quitting
+      - instant gratification culture
+    reduces_suffering: 0.5
+    respects_dignity: 0.5
+    promotes_cooperation: 0.3
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [self-mastery]
+    citation: "Traditional attribution to Confucius"
