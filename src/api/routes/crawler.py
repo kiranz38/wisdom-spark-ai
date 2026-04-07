@@ -1,6 +1,7 @@
-"""Crawler monitoring API routes."""
+"""Crawler monitoring + trigger API routes."""
 
-from fastapi import APIRouter, Depends
+import asyncio
+from fastapi import APIRouter, Depends, BackgroundTasks, Query
 from sqlalchemy import select, func, desc
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -9,6 +10,9 @@ from src.models.crawl_log import CrawlRun, CrawlCandidate
 from src.models.wisdom import WisdomEntry
 
 router = APIRouter(prefix="/crawler", tags=["crawler"])
+
+# Track if a crawl is already running (prevent overlapping runs)
+_crawl_running = False
 
 
 @router.get("/stats")
@@ -42,6 +46,32 @@ async def crawler_stats(db: AsyncSession = Depends(get_db)):
             "total_ingested": total_ingested.scalar() or 0,
         },
     }
+
+
+@router.post("/trigger")
+async def trigger_crawl(background_tasks: BackgroundTasks):
+    """Trigger a crawl cycle. Runs in background so the request returns immediately.
+    Use this with Render Cron Jobs or any external scheduler (e.g. cron-job.org).
+    """
+    global _crawl_running
+    if _crawl_running:
+        return {"status": "already_running", "message": "A crawl cycle is already in progress"}
+
+    async def _run_crawl():
+        global _crawl_running
+        _crawl_running = True
+        try:
+            from src.crawler.runner import WisdomCrawler
+            crawler = WisdomCrawler()
+            await crawler.setup()
+            stats = await crawler.run_once()
+            await crawler.cleanup()
+            return stats
+        finally:
+            _crawl_running = False
+
+    background_tasks.add_task(asyncio.create_task, _run_crawl())
+    return {"status": "started", "message": "Crawl cycle triggered in background"}
 
 
 @router.get("/runs")
