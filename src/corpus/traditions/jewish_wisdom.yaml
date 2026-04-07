@@ -1,0 +1,170 @@
+tradition:
+  slug: jewish-wisdom
+  name: Jewish Wisdom (Talmudic & Prophetic)
+  origin_region: Israel / Mesopotamia / Diaspora
+  era: ~1200 BCE – present
+  description: >
+    Jewish wisdom spans from the Torah and Prophets through the Talmud, Midrash,
+    Kabbalah, and modern Jewish philosophy. It is a tradition of intense ethical
+    debate, social justice, and the sanctity of human life. The Talmudic method —
+    preserving dissenting opinions alongside majority rulings — is itself a model
+    of intellectual humility. Key ethical concepts include tikkun olam (repairing
+    the world), tzedakah (justice-as-charity), pikuach nefesh (sanctity of life
+    overrides almost all other commandments), and the prophetic tradition of
+    speaking truth to power on behalf of the vulnerable.
+  key_figures:
+    - Moses
+    - Hillel the Elder
+    - Rabbi Akiva
+    - Maimonides (Rambam)
+    - Abraham Joshua Heschel
+    - Martin Buber
+  core_principles:
+    - Tikkun olam — the obligation to repair and heal the world
+    - B'tselem Elohim — every human is created in the divine image
+    - Pikuach nefesh — preserving life overrides nearly all other obligations
+    - Tzedakah — charity is not optional generosity but obligatory justice
+    - The Talmudic principle of preserving dissent — truth emerges from debate
+
+entries:
+  - source_text: >
+      Whoever destroys a single life is considered to have destroyed an entire
+      world. And whoever saves a single life is considered to have saved an
+      entire world.
+    source_author: Mishnah
+    source_work: Sanhedrin 4:5
+    source_era: ~200 CE
+    original_language: Hebrew
+    core_principle: >
+      Each human life contains infinite value — literally an entire world.
+      This is not hyperbole but the foundational Jewish teaching on the
+      sanctity of life. It makes every act of rescue infinitely significant
+      and every act of destruction infinitely grave.
+    practical_application: >
+      Act as if every person you encounter is an entire world. Because they are.
+      Their inner life, their relationships, their potential, their suffering —
+      all of it constitutes a universe as complete and complex as your own.
+      Treat them accordingly.
+    modern_context: >
+      This teaching (shared with the Quran, 5:32) is the strongest possible
+      counter-argument to all forms of mass violence, genocide, and dehumanization.
+      You cannot destroy a world and claim it was necessary. Every refugee,
+      every civilian casualty, every forgotten prisoner is an entire world.
+    addresses_anti_patterns:
+      - devaluing human life
+      - genocide
+      - treating people as expendable
+      - mass indifference
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.6
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [dignity, non-harm, compassion]
+    citation: "Mishnah Sanhedrin 4:5, Babylonian Talmud"
+
+  - source_text: >
+      That which is hateful to you, do not do to your neighbor. That is the
+      whole Torah; the rest is commentary. Now go and study.
+    source_author: Hillel the Elder
+    source_work: Babylonian Talmud, Shabbat 31a
+    source_era: 1st century BCE
+    original_language: Hebrew/Aramaic
+    core_principle: >
+      The entire moral law can be condensed into the Golden Rule. Everything
+      else — every commandment, every ritual, every text — is elaboration of
+      this single principle. And yet: "go and study" — the principle is simple
+      but its application requires a lifetime of learning.
+    practical_application: >
+      Use Hillel's test for every ethical question: "Is this hateful to me? Then
+      I must not do it to another." But don't stop there — "go and study." The
+      principle is clear; the application in complex real-world situations
+      requires continuous learning, dialogue, and humility.
+    modern_context: >
+      Hillel's formulation is pragmatically powerful because it requires no
+      theology — just empathy and imagination. It works for atheists and
+      believers alike. The addition of "go and study" acknowledges that ethics
+      is not a one-time insight but a lifelong practice of deepening understanding.
+    addresses_anti_patterns:
+      - cruelty
+      - moral laziness
+      - thinking ethics is simple
+    reduces_suffering: 0.9
+    respects_dignity: 0.9
+    promotes_cooperation: 0.7
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [golden-rule, dignity, compassion, non-harm]
+    citation: "Babylonian Talmud, Shabbat 31a"
+
+  - source_text: >
+      Do not be daunted by the enormity of the world's grief. Do justly now.
+      Love mercy now. Walk humbly now. You are not obligated to complete the
+      work, but neither are you free to abandon it.
+    source_author: Rabbi Tarfon (Pirkei Avot) / adapted
+    source_work: Pirkei Avot 2:16 (adapted formulation)
+    source_era: ~200 CE
+    original_language: Hebrew
+    core_principle: >
+      The world's problems are too large for any one person to solve. This is
+      not an excuse for inaction — it is liberation from the paralysis of
+      perfectionism. You don't have to fix everything. But you must do your part.
+      Start now. Continue always.
+    practical_application: >
+      When the news overwhelms you, when the scale of suffering paralyzes you,
+      remember: you are not required to fix everything. But you are required to
+      do something. Find your piece of the work — the thing your skills, position,
+      and passion equip you to do — and do it faithfully. That is enough.
+    modern_context: >
+      Climate anxiety, compassion fatigue, and doomscrolling all stem from the
+      same error: believing that if you can't fix everything, you should do nothing.
+      This teaching is the antidote: the work is not yours to complete, but it is
+      yours to continue. This is sustainable activism.
+    addresses_anti_patterns:
+      - paralysis by overwhelm
+      - compassion fatigue
+      - all-or-nothing thinking
+      - despair
+    reduces_suffering: 0.7
+    respects_dignity: 0.7
+    promotes_cooperation: 0.8
+    considers_future: 0.9
+    honors_nature: 0.3
+    themes: [cooperation, compassion, self-mastery]
+    citation: "Pirkei Avot 2:16 (adapted). See also Talmud, Rabbi Tarfon"
+
+  - source_text: >
+      Tikkun olam — the repair of the world. It is not enough to be righteous
+      as an individual. We are obligated to work toward the healing of the
+      entire world — its social structures, its injustices, its broken places.
+    source_author: Lurianic Kabbalah / Jewish ethical tradition
+    source_work: Multiple sources (Mishnah, Kabbalah, modern Jewish thought)
+    source_era: Concept spans centuries
+    original_language: Hebrew
+    core_principle: >
+      The world is broken and we are called to repair it. This is not pessimism
+      but sacred activism — the belief that imperfection is not permanent and
+      that human beings are partners with the divine in the work of healing.
+      Tikkun olam makes social justice a spiritual obligation.
+    practical_application: >
+      Identify one broken thing in your world — an injustice, a community need,
+      a suffering that goes unaddressed — and commit to repairing it. You don't
+      need a grand plan. You need to start. Every act of repair, however small,
+      participates in the healing of the whole.
+    modern_context: >
+      Tikkun olam has become a rallying concept for social justice movements
+      worldwide. It provides spiritual grounding for activism: you are not just
+      fighting against something — you are repairing something sacred. This
+      transforms activism from anger into love, from protest into partnership.
+    addresses_anti_patterns:
+      - apathy
+      - accepting injustice as permanent
+      - spiritual bypassing
+      - retreating from the world's problems
+    reduces_suffering: 0.8
+    respects_dignity: 0.8
+    promotes_cooperation: 0.9
+    considers_future: 0.9
+    honors_nature: 0.5
+    themes: [cooperation, dignity, compassion]
+    citation: "Mishnah Gittin 4:2; Isaac Luria, Kabbalistic writings; Abraham Joshua Heschel, various works"

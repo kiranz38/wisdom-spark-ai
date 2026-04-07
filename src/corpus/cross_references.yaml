@@ -100,3 +100,145 @@ cross_references:
       many-sided. Taoism gives the practical argument: true knowledge brings
       restraint, not proclamation.
     similarity_score: 0.73
+
+  # Golden Rule: Islam and Judaism
+  - source_tradition: islamic-ethics
+    source_prefix: "None of you truly believes"
+    target_tradition: jewish-wisdom
+    target_prefix: "That which is hateful"
+    relationship_type: parallel_insight
+    explanation: >
+      The Prophet Muhammad's "wish for your brother what you wish for yourself"
+      and Hillel's "what is hateful to you, do not do to your neighbor" are
+      virtually identical formulations of the Golden Rule from two traditions
+      that share Abrahamic roots but developed independently. Both make empathy
+      the cornerstone of faith. Both insist this single principle contains the
+      entire moral law.
+    similarity_score: 0.95
+
+  # Sanctity of life: Judaism and Islam
+  - source_tradition: jewish-wisdom
+    source_prefix: "Whoever destroys a single life"
+    target_tradition: islamic-ethics
+    target_prefix: "Whoever kills a soul"
+    relationship_type: parallel_insight
+    explanation: >
+      The Mishnah (Sanhedrin 4:5) and the Quran (5:32) contain nearly identical
+      teachings: destroying one life equals destroying all humanity; saving one
+      equals saving all. The Quran explicitly references this as a teaching given
+      to the Children of Israel, making this a conscious continuation of shared
+      Abrahamic wisdom across traditions.
+    similarity_score: 0.97
+
+  # Religious labels are illusory: Sikhism and Sufism
+  - source_tradition: sikh-philosophy
+    source_prefix: "There is no Hindu, there is no Muslim"
+    target_tradition: sufism
+    target_prefix: "Out beyond ideas of wrongdoing"
+    relationship_type: parallel_insight
+    explanation: >
+      Guru Nanak's declaration that religious labels are human inventions and
+      Rumi's vision of a field beyond right and wrong both transcend religious
+      boundaries from within their own traditions. A Sikh guru and a Sufi poet,
+      both rooted in traditions that others used for division, independently
+      declared that the divisions are not real.
+    similarity_score: 0.85
+
+  # Stewardship: Islam and Indigenous
+  - source_tradition: islamic-ethics
+    source_prefix: "The world is green and beautiful"
+    target_tradition: indigenous
+    target_prefix: "We do not inherit the earth"
+    relationship_type: parallel_insight
+    explanation: >
+      The Prophet's teaching that humans are God's stewards of a green and beautiful
+      world and the Indigenous teaching that we borrow the earth from our children
+      express the same ecological ethic from different frameworks. Islam grounds it
+      in divine appointment (khalifah); Indigenous wisdom grounds it in
+      intergenerational obligation. Both reject human ownership of the earth.
+    similarity_score: 0.82
+
+  # Enemy love: Christianity and Buddhism
+  - source_tradition: christian-mystics
+    source_prefix: "Love your enemies"
+    target_tradition: buddhism
+    target_prefix: "Hatred does not cease"
+    relationship_type: parallel_insight
+    explanation: >
+      Jesus's radical command to love enemies and the Buddha's observation that
+      hatred ceases only through love are the same insight from traditions that
+      had no historical contact. Both recognized that the only way to break
+      cycles of hatred is a fundamentally different response. Both demand the
+      hardest thing: responding to harm with love.
+    similarity_score: 0.90
+
+  # The examined life: Socrates and Buddhism
+  - source_tradition: greek-philosophy
+    source_prefix: "The unexamined life"
+    target_tradition: buddhism
+    target_prefix: "We are what we think"
+    relationship_type: complementary
+    explanation: >
+      Socrates's insistence on self-examination and the Buddha's teaching that
+      we are shaped by our thoughts are complementary: Socrates says EXAMINE your
+      life; the Buddha says your THOUGHTS create your world. Together they provide
+      a complete framework: be aware of your thoughts (Buddhism) and critically
+      examine them (Socrates). Mindfulness meets philosophy.
+    similarity_score: 0.76
+
+  # Radical equality: Sikhism and Ubuntu
+  - source_tradition: sikh-philosophy
+    source_prefix: "The langar"
+    target_tradition: ubuntu
+    target_prefix: "A person with ubuntu"
+    relationship_type: parallel_insight
+    explanation: >
+      The Sikh langar (free communal kitchen for all) and Ubuntu's teaching that
+      we are diminished when others are diminished both enact radical equality —
+      one through institutional practice, the other through philosophical
+      recognition. Both arrive at the same conclusion: hierarchy based on birth,
+      status, or identity is an offense against human connection.
+    similarity_score: 0.83
+
+  # Belonging and destruction: African proverbs and positive psychology
+  - source_tradition: african-proverbs
+    source_prefix: "A child that is not embraced"
+    target_tradition: positive-psychology
+    target_prefix: "The Grant Study"
+    relationship_type: complementary
+    explanation: >
+      The African proverb about excluded children burning down the village and
+      Harvard's 85-year Grant Study both prove the same truth from different
+      directions: belonging is not optional — it is the most fundamental human
+      need. The proverb shows what happens when belonging fails; the science
+      shows what happens when it succeeds. Both confirm: connection is survival.
+    similarity_score: 0.78
+
+  # Intellectual humility: Socrates and Jainism
+  - source_tradition: greek-philosophy
+    source_prefix: "I know that I know nothing"
+    target_tradition: jainism
+    target_prefix: "Anekantavada"
+    relationship_type: parallel_insight
+    explanation: >
+      Socratic wisdom ("I know that I know nothing") and Jain anekantavada
+      ("truth has many sides") are the two most rigorous frameworks for
+      intellectual humility in human history — one from ancient Greece, one from
+      ancient India, with no historical contact. Both conclude that claiming
+      certainty is the surest sign of error.
+    similarity_score: 0.85
+
+  # Sustainable engagement: Taoism and Jewish wisdom
+  - source_tradition: jewish-wisdom
+    source_prefix: "Do not be daunted"
+    target_tradition: taoism
+    target_prefix: "Nature does not hurry"
+    relationship_type: complementary
+    explanation: >
+      Rabbi Tarfon's "you are not obligated to complete the work, but neither
+      are you free to abandon it" and Laozi's "nature does not hurry, yet
+      everything is accomplished" are complementary antidotes to burnout and
+      paralysis. Judaism says: do your part, don't carry the whole burden.
+      Taoism says: work at nature's pace, not anxiety's pace. Together: sustainable
+      engagement without burnout.
+    similarity_score: 0.72

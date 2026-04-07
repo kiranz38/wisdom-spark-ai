@@ -1,0 +1,173 @@
+tradition:
+  slug: christian-mystics
+  name: Christian Mysticism & Social Ethics
+  origin_region: Middle East / Europe / Global
+  era: 1st century CE – present
+  description: >
+    Beyond institutional Christianity lies a profound mystical and ethical tradition.
+    The teachings of Jesus on radical love, forgiveness of enemies, and care for
+    "the least of these" represent some of humanity's most demanding ethical
+    injunctions. The Christian mystics — from Meister Eckhart to Thomas Merton to
+    Dorothy Day — deepened this into contemplative practice and social justice.
+    Liberation theology extended it into solidarity with the oppressed. At its core,
+    this tradition teaches that love is not a feeling but a practice, that enemies
+    are to be loved (not merely tolerated), and that the divine is encountered in
+    the poor, the prisoner, and the stranger.
+  key_figures:
+    - Jesus of Nazareth
+    - Meister Eckhart
+    - Francis of Assisi
+    - Thomas Merton
+    - Dorothy Day
+    - Martin Luther King Jr.
+    - Desmond Tutu
+  core_principles:
+    - Love your enemies — the most radical ethical demand ever made
+    - The divine is encountered in the suffering and the marginalized
+    - Forgiveness as liberation — for the forgiver more than the forgiven
+    - Blessed are the peacemakers — active peace-building, not passive acceptance
+    - "Whatever you did for the least of these, you did for me" — ethics of radical solidarity
+
+entries:
+  - source_text: >
+      Love your enemies. Do good to those who hate you. Bless those who curse you.
+      Pray for those who mistreat you. If someone slaps you on one cheek, turn
+      the other also.
+    source_author: Jesus of Nazareth
+    source_work: Gospel of Luke, 6:27-29
+    source_era: 1st century CE
+    original_language: Aramaic (recorded in Greek)
+    core_principle: >
+      The most radical ethical teaching in human history. Not just "don't hate
+      your enemies" or "tolerate your enemies" but LOVE them. Do GOOD to them.
+      BLESS them. This breaks every cycle of retaliation at its root. It is the
+      nuclear option against the nuclear option.
+    practical_application: >
+      Identify someone you consider an adversary. Not in the abstract — someone
+      specific. Now: wish them well. Genuinely. Pray for them (or if not religious,
+      hold them in your mind with genuine goodwill). This will feel impossible at
+      first. That's the point — it is the most demanding moral practice ever
+      devised, and the most transformative.
+    modern_context: >
+      In an age of dehumanizing political opponents, demonizing other nations, and
+      treating disagreement as enmity — "love your enemies" is the most countercultural
+      statement possible. It doesn't mean approving of evil. It means refusing to
+      become the evil you oppose.
+    addresses_anti_patterns:
+      - cycles of retaliation
+      - dehumanizing opponents
+      - hatred as response to hatred
+      - tribalism
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.9
+    considers_future: 0.7
+    honors_nature: 0.2
+    themes: [compassion, non-harm, golden-rule, dignity]
+    citation: "Gospel of Luke, 6:27-29 (NRSV)"
+
+  - source_text: >
+      Truly I tell you, whatever you did for one of the least of these brothers
+      and sisters of mine, you did for me. For I was hungry and you gave me food,
+      I was thirsty and you gave me drink, I was a stranger and you welcomed me,
+      I was naked and you clothed me, I was sick and you visited me, I was in
+      prison and you came to me.
+    source_author: Jesus of Nazareth
+    source_work: Gospel of Matthew, 25:35-40
+    source_era: 1st century CE
+    original_language: Aramaic (recorded in Greek)
+    core_principle: >
+      The divine is not found in temples but in the faces of the suffering.
+      How you treat the hungry, the sick, the imprisoned, the stranger — THAT
+      is the measure of your spiritual life. This teaching makes care for the
+      marginalized not optional charity but the central spiritual practice.
+    practical_application: >
+      Look for the "least of these" in your world. The homeless person you walk
+      past. The refugee on the news. The prisoner nobody visits. The lonely elder
+      in the care home. See them. Serve them. Visit them. This is not extra credit —
+      this is the main exam.
+    modern_context: >
+      This teaching demolishes any form of religion or spirituality that ignores
+      the poor and suffering. It makes social justice the heart of spiritual life,
+      not a peripheral concern. Liberation theology is built on this passage.
+    addresses_anti_patterns:
+      - ignoring the poor
+      - religion without social justice
+      - dehumanizing prisoners, refugees, homeless people
+      - spiritual life disconnected from service
+    reduces_suffering: 0.95
+    respects_dignity: 1.0
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.2
+    themes: [compassion, dignity, golden-rule]
+    citation: "Gospel of Matthew, 25:35-40 (NRSV)"
+
+  - source_text: >
+      Darkness cannot drive out darkness; only light can do that. Hate cannot
+      drive out hate; only love can do that.
+    source_author: Martin Luther King Jr.
+    source_work: Strength to Love
+    source_era: 1963 CE
+    original_language: English
+    core_principle: >
+      Responding to darkness with darkness doubles the darkness. Responding to
+      hate with hate multiplies the hate. Only a fundamentally different response —
+      light, love — can break the cycle. This is not weakness; it is the only
+      strategy that actually works.
+    practical_application: >
+      In every conflict — personal, political, communal — ask: "Am I adding
+      darkness or light?" If your response to hatred is more hatred, you have
+      joined the problem. Choose the harder path: respond with something that
+      breaks the cycle rather than perpetuating it.
+    modern_context: >
+      This teaching from the Civil Rights movement — itself drawing on Jesus,
+      Gandhi, and the Black church tradition — proved its power by helping
+      dismantle legal segregation in America. Love as a political strategy
+      is not naive; it is battle-tested and victorious.
+    addresses_anti_patterns:
+      - fighting hate with hate
+      - cycles of violence
+      - despairing of change
+    reduces_suffering: 0.9
+    respects_dignity: 0.9
+    promotes_cooperation: 0.9
+    considers_future: 0.8
+    honors_nature: 0.2
+    themes: [compassion, non-harm, cooperation]
+    citation: "Martin Luther King Jr., Strength to Love (Harper & Row, 1963)"
+
+  - source_text: >
+      If you have come here to help me, you are wasting your time. But if you have
+      come because your liberation is bound up with mine, then let us work together.
+    source_author: Lilla Watson (Aboriginal Australian activist, in solidarity with global liberation movements)
+    source_work: Attributed to Aboriginal activists group, Queensland
+    source_era: 1970s CE
+    original_language: English
+    core_principle: >
+      True solidarity is not charity from a position of superiority — it is the
+      recognition that our fates are intertwined. I don't help you because I am
+      above you; I work alongside you because your freedom and mine are the same
+      freedom. This transforms the helper-helped dynamic into genuine partnership.
+    practical_application: >
+      When you engage in service, activism, or helping others, check your
+      motivation. Are you there as a savior from above or as a partner whose own
+      liberation is connected? If the former, you may cause more harm than good.
+      If the latter, you are ready for genuine solidarity.
+    modern_context: >
+      This teaching cuts through white saviorism, charity-as-performance, and
+      all forms of "helping" that maintain power dynamics rather than
+      dismantling them. It is the ethical foundation of genuine allyship and
+      solidarity movements worldwide.
+    addresses_anti_patterns:
+      - savior complex
+      - charity that maintains hierarchy
+      - performative allyship
+      - helping from superiority
+    reduces_suffering: 0.7
+    respects_dignity: 1.0
+    promotes_cooperation: 1.0
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [dignity, cooperation, compassion]
+    citation: "Attributed to Lilla Watson / Aboriginal activists group, Queensland, 1970s"

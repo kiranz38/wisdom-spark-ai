@@ -1,0 +1,166 @@
+tradition:
+  slug: sikh-philosophy
+  name: Sikh Philosophy
+  origin_region: Punjab, India
+  era: 15th century CE – present
+  description: >
+    Sikhism, founded by Guru Nanak in 1469 CE, is a radical philosophy of equality,
+    service, and direct divine connection. It emerged in a context of deep Hindu-Muslim
+    division and declared both irrelevant: "There is no Hindu, there is no Muslim" —
+    there are only human beings seeking truth. Sikhism's core institutions embody its
+    philosophy: the langar (free communal kitchen open to ALL regardless of caste,
+    religion, or status) is perhaps the most powerful daily practice of radical equality
+    on earth. Sikh philosophy emphasizes honest work (kirat karo), sharing with others
+    (vand chakko), and constant remembrance of the divine (naam japna).
+  key_figures:
+    - Guru Nanak Dev Ji
+    - Guru Gobind Singh Ji
+    - Guru Arjan Dev Ji
+    - Bhai Gurdas
+    - Bhagat Kabir (included in Guru Granth Sahib)
+  core_principles:
+    - Ik Onkar — there is one universal Creator; therefore all creation is one family
+    - Sarbat da bhala — welfare of ALL humanity, not just one's own group
+    - Langar — radical equality enacted through shared meals
+    - Kirat karo, vand chakko, naam japna — honest work, share with others, remember the divine
+    - Rejection of caste, religious hierarchy, and all forms of birth-based discrimination
+
+entries:
+  - source_text: >
+      There is no Hindu, there is no Muslim. So whose path shall I follow?
+      I shall follow the path of God.
+    source_author: Guru Nanak Dev Ji
+    source_work: Janam Sakhi (traditional biography)
+    source_era: ~1499 CE
+    original_language: Punjabi
+    core_principle: >
+      Religious labels are human constructs that divide what God created as one.
+      The path to truth does not run through any single religion's gate — it runs
+      through honest seeking, compassion, and direct experience of the divine.
+    practical_application: >
+      When you encounter someone of a different faith, remember Guru Nanak's
+      declaration: the labels are human inventions. Beneath them is a shared
+      seeking, a shared humanity, a shared divine spark. Engage with the seeker,
+      not the label.
+    modern_context: >
+      In an era of religious extremism, interfaith conflict, and weaponized identity,
+      Guru Nanak's radical declaration cuts through 500 years of noise: the divisions
+      are not real. They are not ordained by God. They are made by humans, and humans
+      can unmake them.
+    addresses_anti_patterns:
+      - religious bigotry
+      - sectarianism
+      - using religion to divide
+      - religious supremacism
+    reduces_suffering: 0.7
+    respects_dignity: 1.0
+    promotes_cooperation: 0.95
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [dignity, cooperation, golden-rule]
+    citation: "Guru Nanak, Janam Sakhi. See W.H. McLeod, Guru Nanak and the Sikh Religion (Oxford, 1968)"
+
+  - source_text: >
+      Sarbat da bhala — May everyone in the world be blessed and prosper.
+    source_author: Sikh Ardas (daily prayer)
+    source_work: Ardas (Sikh prayer recited daily)
+    source_era: Formalized 17th century CE, roots earlier
+    original_language: Punjabi/Gurmukhi
+    core_principle: >
+      The daily Sikh prayer does not ask for blessings for Sikhs alone — it asks
+      for the welfare of ALL humanity. Every single day, millions of Sikhs pray
+      for the wellbeing of every person on earth, regardless of faith, nation, or
+      identity. This is universal compassion institutionalized as daily practice.
+    practical_application: >
+      Expand your circle of concern to include everyone — not just your family,
+      community, or nation, but all of humanity. When you hope or pray for good
+      things, include everyone. This simple expansion of intention transforms
+      the heart from tribal to universal.
+    modern_context: >
+      Most prayers and aspirations are self-centered or group-centered. "Sarbat da
+      bhala" is radical because it includes your enemies, strangers, and those you
+      will never meet. It is impossible to pray for everyone's wellbeing and
+      simultaneously wish harm on anyone. The practice itself rewires the heart.
+    addresses_anti_patterns:
+      - tribalism
+      - limiting compassion to in-group
+      - wishing harm on enemies
+      - indifference to distant suffering
+    reduces_suffering: 0.8
+    respects_dignity: 0.9
+    promotes_cooperation: 1.0
+    considers_future: 0.7
+    honors_nature: 0.4
+    themes: [compassion, cooperation, golden-rule, dignity]
+    citation: "Sikh Ardas (daily prayer). See Nikky-Guninder Kaur Singh, Sikhism (I.B. Tauris, 2011)"
+
+  - source_text: >
+      The langar: in every Gurdwara (Sikh temple) worldwide, free meals are served
+      to anyone who comes — rich or poor, Sikh or non-Sikh, any caste, any religion,
+      any background. Everyone sits together on the floor as equals. No one is turned
+      away. The Golden Temple in Amritsar feeds 100,000+ people every single day, free.
+    source_author: Institution established by Guru Nanak and Guru Angad
+    source_work: Sikh institutional practice
+    source_era: 16th century CE – present
+    original_language: Punjabi
+    core_principle: >
+      Equality is not just a belief — it must be enacted, daily, in the body.
+      The langar forces radical equality: a king and a beggar sit on the same floor,
+      eat the same food, served by the same hands. Theory becomes practice.
+      Philosophy becomes food.
+    practical_application: >
+      Don't just believe in equality — practice it. Share meals with people different
+      from you. Serve others without hierarchy. The act of sitting together and eating
+      together dissolves barriers that arguments cannot. If you want to bridge a
+      divide, start with a shared table.
+    modern_context: >
+      The langar is arguably the largest daily free feeding program in human history,
+      operating continuously for over 500 years. It proves that radical equality and
+      generosity are not utopian fantasies but sustainable daily practices. If one
+      tradition can feed 100,000 people a day for free, our excuses for inequality
+      look thin.
+    addresses_anti_patterns:
+      - caste discrimination
+      - religious exclusion
+      - hoarding while others starve
+      - inequality accepted as normal
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 1.0
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [dignity, cooperation, compassion, golden-rule]
+    citation: "Sikh langar tradition. See Nikky-Guninder Kaur Singh, The Birth of the Khalsa (SUNY, 2005)"
+
+  - source_text: >
+      One who works honestly and shares the fruits of labor with others has
+      found the true path.
+    source_author: Guru Nanak Dev Ji
+    source_work: Guru Granth Sahib
+    source_era: 15th century CE
+    original_language: Punjabi/Gurmukhi
+    core_principle: >
+      Spirituality is not found in renunciation but in honest engagement with
+      the world. Work with integrity, earn with honesty, and share what you have.
+      This is the complete spiritual path — no monastery required.
+    practical_application: >
+      Dedicate yourself to honest work — whatever it is. Then share. Not just money,
+      but time, skill, knowledge, attention. The Sikh model is beautifully simple:
+      earn honestly, share generously. This is the whole teaching.
+    modern_context: >
+      In an era of gig economy exploitation, get-rich-quick schemes, and hoarded
+      wealth, Guru Nanak's formula is revolutionary in its simplicity: work honestly,
+      share with others. If economic systems followed this principle, inequality
+      would be structurally impossible.
+    addresses_anti_patterns:
+      - dishonest wealth accumulation
+      - hoarding
+      - exploitation of labor
+      - spiritual bypassing (renouncing the world instead of engaging it)
+    reduces_suffering: 0.7
+    respects_dignity: 0.8
+    promotes_cooperation: 0.9
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [cooperation, dignity, golden-rule]
+    citation: "Guru Granth Sahib, Ang 1245. See W.H. McLeod, Textual Sources for the Study of Sikhism (1984)"

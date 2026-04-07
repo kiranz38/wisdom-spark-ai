@@ -1,0 +1,190 @@
+tradition:
+  slug: african-proverbs
+  name: African Proverbial Wisdom
+  origin_region: Pan-African (West, East, Central, North Africa)
+  era: Ancient oral tradition – present
+  description: >
+    Africa's proverbial wisdom traditions represent thousands of years of distilled
+    observation about human nature, community, conflict resolution, and harmony with
+    the natural world. Proverbs in African cultures are not casual sayings — they are
+    compressed philosophy, used in councils, courts, and elder teachings as authoritative
+    wisdom. They carry the weight of law and the depth of lived experience across
+    generations. These proverbs span hundreds of ethnic groups and languages but share
+    remarkable convergence on themes of community, patience, humility, and ecological
+    awareness.
+  key_figures:
+    - Anonymous elders and storytellers across centuries
+    - Chinua Achebe (who brought African proverbs to global literature)
+    - Wole Soyinka
+    - Amadou Hampate Ba
+  core_principles:
+    - Community wisdom is superior to individual cleverness
+    - Patience and persistence achieve what force cannot
+    - Every person has inherent worth and a role in the community
+    - Nature is a teacher and partner, not a resource to be exploited
+    - Conflict should be resolved through dialogue and restoration, not punishment
+
+entries:
+  - source_text: >
+      When there is no enemy within, the enemies outside cannot hurt you.
+    source_author: African proverb (widely attributed, multiple origins)
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various African languages
+    core_principle: >
+      The real battlefield is internal. External threats only have power when
+      they find allies inside you — fear, insecurity, self-doubt, division
+      within your own mind or community. Master the inner enemy first.
+    practical_application: >
+      Before blaming external circumstances for your problems, examine your
+      inner state. Are you self-sabotaging? Are there unresolved internal
+      conflicts — fear, resentment, self-doubt — that make you vulnerable to
+      external attacks? Heal the inner division, and external threats lose
+      their leverage.
+    modern_context: >
+      Propaganda, manipulation, and divisive politics all work by exploiting
+      inner vulnerabilities — fear, insecurity, tribal identity. A person or
+      community that has resolved its inner conflicts is remarkably resilient
+      against external manipulation.
+    addresses_anti_patterns:
+      - blaming external enemies for internal problems
+      - vulnerability to manipulation
+      - inner division
+    reduces_suffering: 0.8
+    respects_dignity: 0.7
+    promotes_cooperation: 0.5
+    considers_future: 0.6
+    honors_nature: 0.2
+    themes: [self-mastery]
+    citation: "Pan-African proverb, multiple attributions"
+
+  - source_text: >
+      Smooth seas do not make skillful sailors.
+    source_author: African proverb
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various
+    core_principle: >
+      Difficulty is not an obstacle to growth — it is the mechanism of growth.
+      A life without challenge produces fragility. Hardship, navigated with wisdom,
+      produces strength, skill, and resilience.
+    practical_application: >
+      When facing difficulty, reframe it: "This is my rough sea. This is making me
+      a better sailor." Don't seek out suffering, but don't flee from necessary
+      challenges. Each storm you navigate honestly adds to your capability.
+    modern_context: >
+      Comfort culture and the avoidance of all discomfort produces what Nassim Taleb
+      calls "fragility." This proverb anticipates antifragility by centuries: the
+      sailor who has faced storms is not damaged by them — they are improved.
+    addresses_anti_patterns:
+      - comfort-seeking as life strategy
+      - fragility
+      - avoiding necessary difficulty
+    reduces_suffering: 0.5
+    respects_dignity: 0.6
+    promotes_cooperation: 0.3
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [self-mastery]
+    citation: "African proverb, widely cited"
+
+  - source_text: >
+      A child that is not embraced by the village will burn it down to feel
+      its warmth.
+    source_author: African proverb (widely attributed)
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various
+    core_principle: >
+      When a community fails to include, nurture, and give belonging to its
+      members — especially its young — those excluded members will seek
+      connection through destruction. Exclusion creates the very violence it
+      claims to fear. Inclusion is not charity — it is community self-preservation.
+    practical_application: >
+      Look around your community — workplace, neighborhood, family, nation.
+      Who is excluded? Who feels unseen? Those are the people most at risk of
+      destructive behavior — not because they are bad but because they are
+      unembracED. Inclusion is the first act of violence prevention.
+    modern_context: >
+      This proverb explains radicalization, gang recruitment, extremism, and
+      school violence with devastating accuracy. Every study of radicalization
+      finds the same pattern: belonging deprivation precedes destructive behavior.
+      The solution is not more policing but more belonging. The village must
+      embrace its children.
+    addresses_anti_patterns:
+      - exclusion
+      - punitive response to destructive behavior
+      - failing to understand root causes of violence
+      - community neglect
+    reduces_suffering: 0.9
+    respects_dignity: 0.9
+    promotes_cooperation: 0.95
+    considers_future: 0.9
+    honors_nature: 0.2
+    themes: [cooperation, compassion, dignity]
+    citation: "African proverb, widely attributed. See also developmental psychology literature on belongingness"
+
+  - source_text: >
+      The axe forgets, but the tree remembers.
+    source_author: African proverb (Shona / Zimbabwean origin)
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Shona
+    core_principle: >
+      Those who cause harm often forget their actions quickly, but those who
+      receive harm remember for a lifetime. Power forgets; the powerless remember.
+      This asymmetry of memory is the root of much unresolved conflict.
+    practical_application: >
+      If you are in a position of power — as a boss, parent, teacher, or simply
+      someone having a bad day — remember that your careless words and actions
+      may be forgotten by you tomorrow but remembered by the other person for
+      years. Wield your power with the awareness that trees remember.
+    modern_context: >
+      This proverb explains why historical injustices — colonialism, slavery,
+      caste oppression — continue to resonate long after the perpetrators have
+      "moved on." It calls those with power to accountability: you may forget,
+      but your impact does not disappear with your memory of it.
+    addresses_anti_patterns:
+      - dismissing others' pain
+      - power blindness
+      - "get over it" mentality toward historical injustice
+      - carelessness with power
+    reduces_suffering: 0.7
+    respects_dignity: 0.9
+    promotes_cooperation: 0.7
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [dignity, compassion, non-harm]
+    citation: "Shona proverb, Zimbabwe. See also Chinua Achebe's use of proverbs in Things Fall Apart"
+
+  - source_text: >
+      However long the night, the dawn will break.
+    source_author: African proverb (widespread)
+    source_work: Oral tradition
+    source_era: Ancient
+    original_language: Various African languages
+    core_principle: >
+      No suffering, no darkness, no oppression is permanent. Dawn is certain.
+      This is not naive optimism — it is the observed pattern of all human history.
+      Empires fall. Injustices end. Springs follow winters. Hold on.
+    practical_application: >
+      In your darkest times — personal, communal, civilizational — remember that
+      the night WILL end. Not might. Will. This is not a wish but a pattern of
+      reality. Your task during the night is not to despair but to endure,
+      to prepare, and to be ready when the dawn comes.
+    modern_context: >
+      This proverb sustained enslaved peoples, colonized nations, and oppressed
+      communities for centuries. It proved true — dawn did break. It continues
+      to offer hope in the face of climate crisis, political darkness, and
+      personal suffering.
+    addresses_anti_patterns:
+      - despair
+      - hopelessness
+      - giving up during hard times
+    reduces_suffering: 0.8
+    respects_dignity: 0.6
+    promotes_cooperation: 0.5
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [self-mastery, compassion]
+    citation: "Pan-African proverb, widely cited"

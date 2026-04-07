@@ -1,0 +1,166 @@
+tradition:
+  slug: greek-philosophy
+  name: Classical Greek Philosophy
+  origin_region: Greece
+  era: 6th–4th century BCE
+  description: >
+    The Greek philosophical tradition — distinct from but foundational to Stoicism —
+    includes Socrates, Plato, and Aristotle, who together shaped Western civilization's
+    approach to ethics, politics, logic, and the examined life. Socrates taught that
+    the unexamined life is not worth living. Plato explored justice, beauty, and the
+    good. Aristotle developed the concept of eudaimonia (flourishing) and the golden
+    mean — that virtue lies between extremes. Together they established that reason,
+    dialogue, and self-knowledge are the foundations of a good life and a just society.
+  key_figures:
+    - Socrates
+    - Plato
+    - Aristotle
+    - Heraclitus
+    - Pythagoras
+  core_principles:
+    - The unexamined life is not worth living (Socrates)
+    - Eudaimonia (human flourishing) is the highest good (Aristotle)
+    - The golden mean — virtue lies between extremes
+    - Knowledge is virtue; ignorance is the root of evil (Socrates)
+    - Dialogue and reason as the path to truth
+
+entries:
+  - source_text: >
+      The unexamined life is not worth living.
+    source_author: Socrates
+    source_work: Plato's Apology, 38a
+    source_era: 399 BCE
+    original_language: Greek
+    core_principle: >
+      A life lived on autopilot — without reflection, without questioning
+      assumptions, without seeking to understand oneself and one's world — is
+      a life wasted. Self-examination is not a luxury but the very thing that
+      makes life meaningful.
+    practical_application: >
+      Set aside time regularly — even 10 minutes — to examine your life. Ask:
+      What am I doing and why? What do I believe and is it true? What patterns
+      am I repeating? Am I living according to my values or just drifting?
+      Journaling, meditation, therapy, deep conversation — all serve this purpose.
+    modern_context: >
+      We live in the most distracted era in human history. The examined life
+      requires something increasingly rare: stillness, attention, and the courage
+      to question oneself. Algorithms feed us content that confirms our biases;
+      Socrates demands we question them.
+    addresses_anti_patterns:
+      - living on autopilot
+      - unquestioned assumptions
+      - distraction as lifestyle
+    reduces_suffering: 0.7
+    respects_dignity: 0.7
+    promotes_cooperation: 0.4
+    considers_future: 0.8
+    honors_nature: 0.2
+    themes: [self-mastery]
+    citation: "Plato, Apology, 38a, trans. G.M.A. Grube (Hackett, 2000)"
+
+  - source_text: >
+      Happiness (eudaimonia) is the meaning and the purpose of life, the whole
+      aim and end of human existence. Happiness depends upon ourselves. It is
+      not a state but an activity — the activity of living in accordance with
+      virtue and reason throughout a complete life.
+    source_author: Aristotle
+    source_work: Nicomachean Ethics, Book I
+    source_era: ~340 BCE
+    original_language: Greek
+    core_principle: >
+      Flourishing (eudaimonia) is not pleasure or wealth but the active exercise
+      of virtue throughout one's life. It is not something that happens to you but
+      something you do — a practice, not a destination. And it depends on YOU,
+      not on circumstances.
+    practical_application: >
+      Stop chasing happiness as a feeling and start practicing it as an activity.
+      Each day, ask: "Did I exercise courage, kindness, justice, wisdom, or
+      self-control today?" If yes, you are flourishing — regardless of how you
+      feel. Feelings fluctuate; virtue accumulates.
+    modern_context: >
+      Modern happiness research (positive psychology) has largely confirmed
+      Aristotle: lasting wellbeing comes from meaning, engagement, and virtue —
+      not from pleasure or material accumulation. The pursuit of happiness-as-feeling
+      often undermines happiness-as-flourishing.
+    addresses_anti_patterns:
+      - hedonism as life strategy
+      - passive waiting for happiness
+      - equating wealth with wellbeing
+    reduces_suffering: 0.7
+    respects_dignity: 0.7
+    promotes_cooperation: 0.5
+    considers_future: 0.8
+    honors_nature: 0.3
+    themes: [self-mastery, dignity]
+    citation: "Aristotle, Nicomachean Ethics, trans. W.D. Ross (Oxford, 1925)"
+
+  - source_text: >
+      I know that I know nothing.
+    source_author: Socrates
+    source_work: Plato's Apology
+    source_era: 399 BCE
+    original_language: Greek
+    core_principle: >
+      The wisest person is the one who knows the limits of their knowledge.
+      Intellectual humility — the recognition that our understanding is always
+      incomplete — is the beginning of true wisdom. It is also the foundation
+      of genuine learning: you cannot learn if you think you already know.
+    practical_application: >
+      In your area of greatest expertise, practice saying "I don't know" and
+      "I might be wrong." Notice how it opens space for learning. The expert
+      who admits uncertainty is more trustworthy — and more capable of growth —
+      than the one who claims certainty about everything.
+    modern_context: >
+      Overconfidence, dogmatism, and the Dunning-Kruger effect plague public
+      discourse. Social media rewards certainty and punishes nuance. Socratic
+      humility is the antidote: the admission of ignorance is not weakness
+      but the prerequisite for all genuine understanding.
+    addresses_anti_patterns:
+      - intellectual arrogance
+      - dogmatism
+      - overconfidence
+      - refusal to learn
+    reduces_suffering: 0.5
+    respects_dignity: 0.7
+    promotes_cooperation: 0.8
+    considers_future: 0.6
+    honors_nature: 0.2
+    themes: [self-mastery, cooperation]
+    citation: "Plato, Apology, trans. G.M.A. Grube (Hackett, 2000)"
+
+  - source_text: >
+      Virtue is the golden mean between two extremes — excess and deficiency.
+      Courage lies between cowardice and recklessness. Generosity lies between
+      stinginess and wastefulness. Truthfulness lies between boastfulness and
+      self-deprecation.
+    source_author: Aristotle
+    source_work: Nicomachean Ethics, Book II
+    source_era: ~340 BCE
+    original_language: Greek
+    core_principle: >
+      Every virtue is a balance point between two vices. The right response to
+      any situation is neither too much nor too little but just right. This
+      requires practical wisdom (phronesis) — the ability to read each situation
+      and find the appropriate response.
+    practical_application: >
+      When facing a difficult situation, identify the two extremes and find
+      the middle path. Being too aggressive or too passive? Find assertiveness.
+      Too trusting or too suspicious? Find discernment. The virtuous path is
+      almost always the balanced one.
+    modern_context: >
+      Political polarization pushes everything to extremes. The golden mean
+      suggests that wisdom almost always lies between opposing positions.
+      This is not centrism for its own sake — it is the recognition that
+      extreme positions, by definition, are unbalanced.
+    addresses_anti_patterns:
+      - extremism
+      - polarization
+      - all-or-nothing thinking
+      - mistaking excess for virtue
+    reduces_suffering: 0.6
+    respects_dignity: 0.6
+    promotes_cooperation: 0.7
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [self-mastery, cooperation]
+    citation: "Aristotle, Nicomachean Ethics, Book II, trans. W.D. Ross (Oxford, 1925)"

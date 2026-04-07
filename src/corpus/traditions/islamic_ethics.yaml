@@ -1,0 +1,198 @@
+tradition:
+  slug: islamic-ethics
+  name: Islamic Ethics & Quranic Wisdom
+  origin_region: Arabia / Middle East / Global
+  era: 7th century CE – present
+  description: >
+    Islamic ethics draws from the Quran, the Hadith (sayings of Prophet Muhammad),
+    and centuries of scholarly tradition to articulate a comprehensive moral framework
+    centered on justice (adl), mercy (rahmah), stewardship of the earth (khalifah),
+    and the sacred dignity of every human soul. Islam teaches that humans are
+    trustees (khulafa) of the earth, not its owners, and that the measure of faith
+    is how one treats the vulnerable — orphans, the poor, neighbors, and strangers.
+    The Islamic tradition has a deep commitment to knowledge-seeking, charitable
+    giving (zakat), and the unity of humanity under one Creator.
+  key_figures:
+    - Prophet Muhammad
+    - Ali ibn Abi Talib
+    - Al-Ghazali
+    - Ibn Rushd (Averroes)
+    - Rabi'a al-Adawiyya
+  core_principles:
+    - Tawhid — the unity of God implies the unity of humanity
+    - Adl (justice) — the cornerstone of all social order
+    - Rahmah (mercy/compassion) — the most frequently invoked attribute of God
+    - Khalifah (stewardship) — humans are trustees of the earth
+    - Ilm (knowledge) — seeking knowledge is a sacred duty
+
+entries:
+  - source_text: >
+      O humanity! We created you from a single pair of a male and a female,
+      and made you into nations and tribes, so that you may know one another.
+      Verily the most honoured of you in the sight of God is the most righteous
+      of you.
+    source_author: Quran
+    source_work: Surah Al-Hujurat, 49:13
+    source_era: 7th century CE
+    original_language: Arabic
+    core_principle: >
+      Human diversity — nations, tribes, races — exists not for hierarchy or
+      division but for mutual knowledge and enrichment. The only valid measure
+      of human worth is righteousness (character and conduct), not lineage,
+      color, wealth, or nationality.
+    practical_application: >
+      When you encounter someone from a different culture, nation, or background,
+      approach with curiosity rather than judgment. The Quran frames diversity as
+      an invitation to learn, not a reason to rank. Ask yourself: what can I learn
+      from this person's perspective that my own background cannot teach me?
+    modern_context: >
+      This 7th-century verse demolishes the foundation of racism, nationalism, and
+      ethnic supremacy. It was revealed in a context of fierce tribal rivalries and
+      declared them irrelevant. Its message — that diversity exists for mutual
+      enrichment, not hierarchy — is precisely what the modern world needs.
+    addresses_anti_patterns:
+      - racism
+      - tribalism
+      - nationalism as supremacy
+      - ethnic hierarchy
+    reduces_suffering: 0.7
+    respects_dignity: 1.0
+    promotes_cooperation: 0.9
+    considers_future: 0.6
+    honors_nature: 0.3
+    themes: [dignity, cooperation, golden-rule]
+    citation: "Quran, 49:13, trans. Abdullah Yusuf Ali"
+
+  - source_text: >
+      None of you truly believes until he wishes for his brother what he wishes
+      for himself.
+    source_author: Prophet Muhammad
+    source_work: Sahih al-Bukhari, Hadith 13
+    source_era: 7th century CE
+    original_language: Arabic
+    core_principle: >
+      The Islamic Golden Rule — faith itself is incomplete without this principle.
+      It is not merely a moral suggestion but a condition of genuine belief.
+      Wishing well for others is the minimum requirement of a faithful heart.
+    practical_application: >
+      Before making any decision that affects others, ask: "Would I want this
+      for myself?" Before criticizing someone, ask: "Would I want to be spoken
+      about this way?" Make this check habitual — it is the simplest and most
+      powerful ethical algorithm ever devised.
+    modern_context: >
+      The Golden Rule appears in every tradition, but Islam's framing is distinctive:
+      it ties the principle to the very validity of one's faith. You cannot claim
+      to be a person of faith while disregarding others' wellbeing. This makes
+      empathy a theological imperative, not just a nice idea.
+    addresses_anti_patterns:
+      - selfishness
+      - hypocrisy
+      - indifference to others
+    reduces_suffering: 0.8
+    respects_dignity: 0.9
+    promotes_cooperation: 0.9
+    considers_future: 0.5
+    honors_nature: 0.2
+    themes: [golden-rule, compassion, dignity]
+    citation: "Sahih al-Bukhari, Book 2, Hadith 13"
+
+  - source_text: >
+      The merciful are shown mercy by the All-Merciful. Show mercy to those on
+      earth, and the One above the heavens will show mercy to you.
+    source_author: Prophet Muhammad
+    source_work: Sunan al-Tirmidhi, Hadith 1924
+    source_era: 7th century CE
+    original_language: Arabic
+    core_principle: >
+      Mercy is the fundamental quality that connects the divine to the human.
+      Showing mercy is not weakness — it is alignment with the deepest force in
+      the universe. The cycle of mercy begins with us: show mercy to receive mercy.
+    practical_application: >
+      Practice mercy in concrete situations: forgive someone who wronged you.
+      Give the benefit of the doubt. Be gentle with those who are struggling.
+      In positions of power, choose clemency over punishment when possible.
+      Mercy toward all on earth — not just your group, but all creation.
+    modern_context: >
+      Punitive justice systems, zero-tolerance policies, and cancel culture all
+      reflect a mercy deficit. This teaching — that mercy toward ALL on earth
+      (not just believers, not just humans) is the path to divine mercy — offers
+      a radical alternative to retribution.
+    addresses_anti_patterns:
+      - cruelty
+      - punitive excess
+      - mercilessness toward enemies
+      - limiting compassion to in-group
+    reduces_suffering: 0.95
+    respects_dignity: 0.8
+    promotes_cooperation: 0.7
+    considers_future: 0.5
+    honors_nature: 0.5
+    themes: [compassion, non-harm, golden-rule]
+    citation: "Sunan al-Tirmidhi, Hadith 1924"
+
+  - source_text: >
+      Whoever kills a soul — it is as if he had slain all of humanity. And whoever
+      saves one — it is as if he had saved all of humanity.
+    source_author: Quran
+    source_work: Surah Al-Ma'idah, 5:32
+    source_era: 7th century CE
+    original_language: Arabic
+    core_principle: >
+      Every human life contains within it the value of all humanity. One life is
+      not a fraction of the whole — it IS the whole. This makes every act of
+      violence a cosmic crime and every act of rescue a cosmic salvation.
+    practical_application: >
+      Take this literally: every person you encounter carries the weight of all
+      humanity. The homeless person, the refugee, the prisoner, the stranger —
+      their life is as valuable as the entirety of the human race. Act accordingly.
+      When you have the chance to help one person, you are saving a world.
+    modern_context: >
+      In an era of mass casualty statistics, refugee crises reduced to numbers,
+      and war normalized by distance, this verse insists on the infinite value of
+      each individual life. It makes it impossible to treat people as statistics
+      or acceptable losses.
+    addresses_anti_patterns:
+      - devaluing human life
+      - treating people as statistics
+      - justifying violence
+      - indifference to individual suffering
+    reduces_suffering: 0.9
+    respects_dignity: 1.0
+    promotes_cooperation: 0.7
+    considers_future: 0.7
+    honors_nature: 0.3
+    themes: [dignity, non-harm, compassion]
+    citation: "Quran, 5:32, trans. Abdullah Yusuf Ali"
+
+  - source_text: >
+      The world is green and beautiful, and God has appointed you as His
+      stewards over it.
+    source_author: Prophet Muhammad
+    source_work: Sahih Muslim
+    source_era: 7th century CE
+    original_language: Arabic
+    core_principle: >
+      Humans are not owners of the earth but its appointed caretakers. The beauty
+      of the world is a trust (amanah) — we are accountable for how we treat it.
+      Environmental destruction is a betrayal of a sacred responsibility.
+    practical_application: >
+      Treat every natural space as a trust you will be held accountable for.
+      Plant trees. Reduce waste. Conserve water (the Prophet explicitly forbade
+      wasting water even when washing in a flowing river). Consider your
+      environmental footprint as a spiritual matter, not just a political one.
+    modern_context: >
+      Islam's concept of khalifah (stewardship/vicegerency) provides a powerful
+      theological framework for environmentalism. The earth is not ours to exploit —
+      it is God's creation entrusted to our care. This reframes environmental
+      destruction as a spiritual failure, not just a policy problem.
+    addresses_anti_patterns:
+      - environmental destruction
+      - treating earth as property
+      - waste and overconsumption
+    reduces_suffering: 0.5
+    respects_dignity: 0.6
+    promotes_cooperation: 0.5
+    considers_future: 0.9
+    honors_nature: 1.0
+    themes: [stewardship, non-harm]
+    citation: "Sahih Muslim, Hadith 2742"
